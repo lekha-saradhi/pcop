@@ -1,0 +1,333 @@
+﻿[
+  {
+    "customer_id": "C-00000001",
+    "channel": "email",
+    "compliance_status": "approved",
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "offer_code": "HNW_FEE_WAIVER_12M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "subject_line": "Arjun, your next chapter starts with us",
+    "preview_text": "A 12-month fee waiver awaits as you relocate\u2014let\u2019s make this transition seamless, together.",
+    "body": "Dear Arjun,\n\nNine years is a long time, and it\u2019s been our privilege to stand with you through every milestone. I understand that a job change and relocation bring both excitement and a fair share of to-dos, and I want to ensure your banking is one less thing to worry about.\n\nTo make your transition effortless, I\u2019ve arranged an exclusive full fee waiver on your PCOP relationship for the next 12 months\u2014worth INR 25,000. This means uninterrupted premium service and zero banking charges while you settle into your new city.\n\nThis waiver is reserved for you and must be activated before the end of this month. May I suggest a quick call this week to confirm this and update your contact preferences? Your trust over these nine years means everything, and I look forward to being your anchor during this move.\n\nWarmly,\nRohit Mehta\nRelationship Manager, PCOP",
+    "ab_variant": {
+      "subject_line": "Arjun, your PCOP loyalty reward awaits",
+      "preview_text": "Exclusive for HNW members like you"
+    }
+  },
+  {
+    "customer_id": "C-00000002",
+    "channel": "email",
+    "compliance_status": "approved",
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "offer_code": "MA_FEE_WAIVER_6M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "subject_line": "Priya, your loyalty deserves more than just thanks",
+    "preview_text": "A special waiver for your 5 years with us\u2014let\u2019s talk before it slips away",
+    "body": "Dear Priya,\n\nFive years ago, you chose PCOP. That decision has shaped us, and I want to honor it with something tangible\u2014not just warm words.\n\nFor the next few days, I\u2019ve reserved an exclusive 6-month fee waiver on your banking relationship, worth INR 8,000. It\u2019s our way of saying thank you for your steadfast trust. No forms, no fine print\u2014just a direct credit that keeps your experience seamless and rewarding.\n\nThis is a time-sensitive gesture, crafted specifically for our most valued relationships. I\u2019d hate for you to miss it because the window is closing soon.\n\nWould you like me to activate it right now? Simply reply with \u201cYes, Priya\u201d and I\u2019ll take care of the rest personally.\n\nWarmly,\nAmit Verma\nYour Relationship Manager, PCOP",
+    "ab_variant": {
+      "subject_line": "Priya, your PCOP loyalty reward awaits",
+      "preview_text": "Exclusive for Mass Affluent members like you"
+    }
+  },
+  {
+    "customer_id": "C-00000003",
+    "channel": "sms",
+    "compliance_status": "approved",
+    "content_strategy": "proactive",
+    "urgency_horizon": null,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "offer_code": "MM_CASHBACK_3M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "body": "Dear Rohit, thank you for 12 years with PCOP. Enjoy 2% cashback up to \u20b92000 for 3 months. Reply YES to activate."
+  },
+  {
+    "customer_id": "C-00000004",
+    "channel": "app",
+    "compliance_status": "approved",
+    "content_strategy": "proactive",
+    "urgency_horizon": "30d",
+    "tone_modifiers": [
+      "professional"
+    ],
+    "offer_code": "DN_APP_REWARD",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "title": "Thank you, Anjali",
+    "body": "Enjoy 5x reward points on your next in-app transaction. A token of our appreciation for your loyalty.",
+    "cta": "Claim now"
+  },
+  {
+    "customer_id": "C-00000005",
+    "channel": "email",
+    "compliance_status": "approved",
+    "content_strategy": "graceful_retention",
+    "urgency_horizon": null,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "offer_code": "HNW_FEE_WAIVER_12M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "subject_line": "Vikram, our gratitude for 15 remarkable years",
+    "preview_text": "A token of appreciation worth INR 25,000, crafted exclusively for you.",
+    "body": "Dear Mr. Desai,\n\nFew relationships span a decade and a half, and yours is one we deeply treasure. For 15 years, you have placed your trust in PCOP, and it has been our privilege to serve you.\n\nAs a gesture of our gratitude, we are delighted to extend a 12-month fee waiver on your banking relationship, valued at INR 25,000. This is a small acknowledgment of the quiet confidence you have shown in us, with no action required from your end\u2014it will reflect automatically in the coming days.\n\nIn a world of constant change, your continued presence reminds us of what truly matters: consistency, trust, and a partnership that endures. Should you ever wish to discuss your portfolio or any evolving needs, I remain entirely at your disposal.\n\nWith sincere appreciation,\n[Name]\nYour Relationship Manager, PCOP",
+    "ab_variant": {
+      "subject_line": "Vikram, your PCOP loyalty reward awaits",
+      "preview_text": "Exclusive for HNW members like you"
+    }
+  },
+  {
+    "customer_id": "C-00000006",
+    "channel": "rm_visit",
+    "compliance_status": "approved",
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "offer_code": "HNW_FEE_WAIVER_12M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "opening": "It's good to see you, Meera. I want to start by saying we were so sorry to hear about your loss, and please know we\u2019re here to support you, not just as your bank but as a steady presence, just as we have been for the last 20 years.",
+    "talking_points": [
+      "We\u2019ve been reviewing your relationship to ensure your portfolio is perfectly aligned with your current needs. With that in mind, we\u2019d like to offer you a comprehensive fee waiver for the next 12 months, valued at INR 25,000. This is a gesture to provide some financial breathing room, with no action needed from you.",
+      "Given this transition, our priority is ensuring your portfolio reflects any new priorities and long-term security. I can walk you through a few options that offer capital preservation and steady income, entirely at your comfort.",
+      "We\u2019ve also assigned a dedicated service manager to you, so you have a single, direct point of contact for any banking or documentation needs, bypassing any queues or general helplines. We want to make sure this is one less thing for you to worry about."
+    ]
+  },
+  {
+    "customer_id": "C-00000007",
+    "channel": "sms",
+    "compliance_status": "approved",
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "offer_code": "MA_FEE_WAIVER_6M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "body": "Suresh ji, 8 yrs together means the world! Exclusive for you: 6-mth fee waiver worth \u20b98k. Reply YES by tonight to claim. \u2013 PCOP"
+  },
+  {
+    "customer_id": "C-00000008",
+    "channel": "sms",
+    "compliance_status": "approved",
+    "content_strategy": "proactive",
+    "urgency_horizon": null,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "offer_code": "MM_CASHBACK_3M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "body": "Dear Deepak, thank you for 7 years with PCOP. Enjoy 2% cashback (up to \u20b92,000) for 3 months. Reply YES to activate."
+  },
+  {
+    "customer_id": "C-00000009",
+    "channel": "app",
+    "compliance_status": "approved",
+    "content_strategy": "proactive",
+    "urgency_horizon": "30d",
+    "tone_modifiers": [
+      "professional"
+    ],
+    "offer_code": "DN_APP_REWARD",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "title": "For you, Neha \u2014 5x reward points",
+    "body": "Thank you for 4 wonderful years. Enjoy 5x in-app reward points as our token of appreciation.",
+    "cta": "Claim now"
+  },
+  {
+    "customer_id": "C-00000010",
+    "channel": "email",
+    "compliance_status": "approved",
+    "content_strategy": "graceful_retention",
+    "urgency_horizon": null,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "offer_code": "HNW_FEE_WAIVER_12M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "subject_line": "Rajesh, our appreciation for your 11 years with us",
+    "preview_text": "As a gesture of gratitude, please accept a full-year fee waiver worth INR 25,000 on your account.",
+    "body": "Dear Mr. Verma,\n\nI hope this note finds you well. As your Relationship Manager, I had the pleasure of reviewing your journey with PCOP, and it is truly humbling to see a relationship spanning over eleven years\u2014one built on trust, consistency, and shared growth.\n\nThere is no immediate milestone prompting this message, only a genuine desire to honor your loyalty. With that in mind, I have arranged a 12-month complete fee waiver worth INR 25,000 on your banking relationship with us. This waiver has already been reserved for you and requires no action on your part\u2014it is simply our way of saying thank you.\n\nRajesh, clients like you remind us why we take pride in what we do. Should you ever wish to discuss your portfolio, explore new opportunities, or share feedback, my calendar is always open to you.\n\nWith warm regards and deep appreciation,\nAmita Desai\nRelationship Manager, PCOP",
+    "ab_variant": {
+      "subject_line": "Rajesh, your PCOP loyalty reward awaits",
+      "preview_text": "Exclusive for HNW members like you"
+    }
+  },
+  {
+    "customer_id": "C-00000011",
+    "channel": "email",
+    "compliance_status": "approved",
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "offer_code": "MA_FEE_WAIVER_6M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "subject_line": "Amrita, an exclusive waiver for your 6 years with us",
+    "preview_text": "Your loyalty deserves more than just thanks. A time-sensitive INR 8,000 benefit awaits.",
+    "body": "Dear Amrita,\n\nSix years is a long time, and it\u2019s been our privilege to have you grow with PCOP. Your trust forms the quiet backbone of our community, and today, I want to honor that.\n\nAs a gesture of pure gratitude\u2014not a promotion\u2014I\u2019ve reserved a complete fee waiver worth INR 8,000 on your relationship for the next 6 months. There are no hidden conditions, no minimum balances to maintain; simply a seamless continuation of the service you value, at no cost.\n\nThis waiver is active for a very limited window and is designed exclusively for a select few who, like you, have been with us for years. I would hate for you to miss it.\n\nLet\u2019s secure this for you. Just reply to this email or call me directly, and I\u2019ll personally ensure it\u2019s applied to your account before the window closes.\n\nWarmly,\nVikram Sharma\nYour Relationship Manager, PCOP",
+    "ab_variant": {
+      "subject_line": "Amrita, your PCOP loyalty reward awaits",
+      "preview_text": "Exclusive for Mass Affluent members like you"
+    }
+  },
+  {
+    "customer_id": "C-00000012",
+    "channel": "sms",
+    "compliance_status": "approved",
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "offer_code": "MM_CASHBACK_3M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "body": "Hi Sanjay, as our valued 9-yr patron, unlock 2% cashback up to \u20b92000 for 3 months. Offer ends soon! Reply YES to grab it now. -PCOP"
+  },
+  {
+    "customer_id": "C-00000013",
+    "channel": "sms",
+    "compliance_status": "approved",
+    "content_strategy": "proactive",
+    "urgency_horizon": "90d",
+    "tone_modifiers": [
+      "professional"
+    ],
+    "offer_code": "MA_FEE_WAIVER_6M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "body": "Dear Mr. Harish, thank you for 18 years with PCOP. As a token of appreciation, enjoy a 6-month fee waiver worth \u20b98,000. Reply YES to activate."
+  },
+  {
+    "customer_id": "C-00000014",
+    "channel": "app",
+    "compliance_status": "approved",
+    "content_strategy": "proactive",
+    "urgency_horizon": "90d",
+    "tone_modifiers": [
+      "professional"
+    ],
+    "offer_code": "DN_APP_REWARD",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "title": "For you, Kavya \u2013 5x rewards",
+    "body": "Thank you for 5 wonderful years. Enjoy 5x reward points on your next in-app transaction.",
+    "cta": "Claim now"
+  },
+  {
+    "customer_id": "C-00000015",
+    "channel": "sms",
+    "compliance_status": "approved",
+    "content_strategy": "proactive",
+    "urgency_horizon": "30d",
+    "tone_modifiers": [
+      "professional"
+    ],
+    "offer_code": "MM_CASHBACK_3M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "body": "Dear Nitin, thank you for 6 wonderful years with PCOP. Enjoy 2% cashback up to INR 2,000 for 3 months. Reply YES to avail this exclusive offer."
+  },
+  {
+    "customer_id": "C-00000016",
+    "channel": "email",
+    "compliance_status": "approved",
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "offer_code": "MA_FEE_WAIVER_6M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "subject_line": "Simran, a special thank-you for your 7 years with us",
+    "preview_text": "An exclusive fee waiver worth \u20b98,000 awaits you \u2014 but only for the next few days.",
+    "body": "Dear Simran,\n\nSeven years ago, you placed your trust in PCOP \u2014 and that trust has shaped the way we serve you. As a valued member of our Mass Affluent family, your loyalty deserves more than just a thank-you.\n\nThat\u2019s why I\u2019ve reserved an exclusive 6-month fee waiver worth \u20b98,000 on your account. This is a time-sensitive gesture, crafted only for a handful of long-standing relationships like ours. But I must mention \u2014 this waiver can only be activated if claimed within the next few days.\n\nNo forms, no hassle. Simply reply to this email or call me directly, and I\u2019ll ensure it reflects in your account right away.\n\nSimran, it\u2019s been a privilege to support you all these years. Let\u2019s make sure this benefit doesn\u2019t slip away.\n\nWarmly,\nYour Relationship Manager\nPCOP",
+    "ab_variant": {
+      "subject_line": "Simran, your PCOP loyalty reward awaits",
+      "preview_text": "Exclusive for Mass Affluent members like you"
+    }
+  },
+  {
+    "customer_id": "C-00000017",
+    "channel": "email",
+    "compliance_status": "approved",
+    "content_strategy": "proactive",
+    "urgency_horizon": null,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "offer_code": "HNW_FEE_WAIVER_12M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "subject_line": "Aditya, our thanks for 13 years of trust",
+    "preview_text": "To show our appreciation, we're waiving your next 12 months of banking fees\u2014worth INR 25,000.",
+    "body": "Dear Aditya,\n\nI was reviewing your portfolio today and wanted to reach out personally. Thirteen years is a significant milestone, and on behalf of everyone at PCOP, thank you for the trust you\u2019ve placed in us since 2011.\n\nAs a gesture of our appreciation for your continued relationship, we\u2019ve proactively arranged a full waiver of your banking fees for the next 12 months, valued at INR 25,000. This will reflect automatically on your account\u2014no action is needed from your end.\n\nYour loyalty has been instrumental in shaping our premium banking experience, and I look forward to serving you in the years ahead. If there\u2019s anything at all I can do to enhance your banking experience, please don\u2019t hesitate to call me directly.\n\nWarm regards,\n[Name]\nRelationship Manager, PCOP",
+    "ab_variant": {
+      "subject_line": "Aditya, your PCOP loyalty reward awaits",
+      "preview_text": "Exclusive for HNW members like you"
+    }
+  },
+  {
+    "customer_id": "C-00000018",
+    "channel": "app",
+    "compliance_status": "approved",
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "offer_code": "DN_APP_REWARD",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "title": "Pooja, your loyalty just leveled up \u2728",
+    "body": "Claim 5X reward points for 48 hrs only\u2014our thanks for 4 amazing years together.",
+    "cta": "Grab my points"
+  },
+  {
+    "customer_id": "C-00000019",
+    "channel": "email",
+    "compliance_status": "approved",
+    "content_strategy": "graceful_retention",
+    "urgency_horizon": "30d",
+    "tone_modifiers": [
+      "professional"
+    ],
+    "offer_code": "MA_FEE_WAIVER_6M",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "subject_line": "An exclusive offer from PCOP, Gaurav",
+    "preview_text": "Your 8-year relationship means everything to us.",
+    "body": "Dear Gaurav, as a valued 8-year customer, we have a special offer for you: 6-month fee waiver worth INR 8,000.",
+    "ab_variant": {
+      "subject_line": "Gaurav, your PCOP loyalty reward awaits",
+      "preview_text": "Exclusive for Mass Affluent members like you"
+    }
+  },
+  {
+    "customer_id": "C-00000020",
+    "channel": "app",
+    "compliance_status": "approved",
+    "content_strategy": "proactive",
+    "urgency_horizon": null,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "offer_code": "DN_APP_REWARD",
+    "generated_at": "2026-05-27T03:26:00Z",
+    "title": "Thank you, Divya",
+    "body": "Your 6 years with us mean everything. Enjoy 5x reward points on your next in-app transaction.",
+    "cta": "Claim now"
+  }
+]

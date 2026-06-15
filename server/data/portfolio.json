@@ -1,0 +1,547 @@
+{
+  "summary": {
+    "total_customers": 50,
+    "avg_churn_score": 0.4759,
+    "priority_count": 8,
+    "escalate_count": 10,
+    "standard_count": 12,
+    "monitor_count": 12,
+    "safe_count": 8,
+    "active_signals": 145,
+    "life_events_detected": 20,
+    "outreach_dispatched": 30,
+    "suppression_rate": 0.08
+  },
+  "tier_distribution": [
+    {
+      "tier": "PRIORITY",
+      "count": 8,
+      "pct": 16.0
+    },
+    {
+      "tier": "ESCALATE",
+      "count": 10,
+      "pct": 20.0
+    },
+    {
+      "tier": "STANDARD",
+      "count": 12,
+      "pct": 24.0
+    },
+    {
+      "tier": "MONITOR",
+      "count": 12,
+      "pct": 24.0
+    },
+    {
+      "tier": "NONE",
+      "count": 8,
+      "pct": 16.0
+    }
+  ],
+  "churn_trend": [
+    {
+      "week": 1,
+      "label": "W1",
+      "avg_score": 0.4769,
+      "critical_count": 9,
+      "high_count": 10
+    },
+    {
+      "week": 2,
+      "label": "W2",
+      "avg_score": 0.478,
+      "critical_count": 9,
+      "high_count": 11
+    },
+    {
+      "week": 3,
+      "label": "W3",
+      "avg_score": 0.4578,
+      "critical_count": 7,
+      "high_count": 10
+    },
+    {
+      "week": 4,
+      "label": "W4",
+      "avg_score": 0.4749,
+      "critical_count": 9,
+      "high_count": 10
+    },
+    {
+      "week": 5,
+      "label": "W5",
+      "avg_score": 0.4694,
+      "critical_count": 7,
+      "high_count": 10
+    },
+    {
+      "week": 6,
+      "label": "W6",
+      "avg_score": 0.4915,
+      "critical_count": 7,
+      "high_count": 8
+    },
+    {
+      "week": 7,
+      "label": "W7",
+      "avg_score": 0.4956,
+      "critical_count": 8,
+      "high_count": 9
+    },
+    {
+      "week": 8,
+      "label": "W8",
+      "avg_score": 0.4904,
+      "critical_count": 9,
+      "high_count": 9
+    },
+    {
+      "week": 9,
+      "label": "W9",
+      "avg_score": 0.4774,
+      "critical_count": 9,
+      "high_count": 9
+    },
+    {
+      "week": 10,
+      "label": "W10",
+      "avg_score": 0.494,
+      "critical_count": 9,
+      "high_count": 8
+    },
+    {
+      "week": 11,
+      "label": "W11",
+      "avg_score": 0.4996,
+      "critical_count": 8,
+      "high_count": 10
+    },
+    {
+      "week": 12,
+      "label": "W12",
+      "avg_score": 0.5005,
+      "critical_count": 9,
+      "high_count": 11
+    }
+  ],
+  "signal_breakdown": [
+    {
+      "type": "complaint_count",
+      "count": 18
+    },
+    {
+      "type": "balance_change",
+      "count": 18
+    },
+    {
+      "type": "app_logins",
+      "count": 17
+    },
+    {
+      "type": "salary_credits",
+      "count": 17
+    },
+    {
+      "type": "inactivity_streak",
+      "count": 16
+    },
+    {
+      "type": "atm_withdrawals",
+      "count": 16
+    },
+    {
+      "type": "channel_entropy",
+      "count": 15
+    },
+    {
+      "type": "digital_ratio",
+      "count": 15
+    },
+    {
+      "type": "txn_frequency",
+      "count": 13
+    }
+  ],
+  "model_health": {
+    "ensemble_weights": {
+      "genesis": 0.15,
+      "habitat": 0.3,
+      "tare": 0.35,
+      "graph_sage": 0.2
+    },
+    "model_aucs": {
+      "genesis": 0.742,
+      "habitat": 0.881,
+      "tare": 0.798,
+      "graph_sage": 0.93
+    },
+    "fusion_ece": 0.032,
+    "fusion_auc": 0.917,
+    "last_retrained": "2026-05-28",
+    "n_customers_scored": 50,
+    "calibration_points": [
+      {
+        "bin": 0.05,
+        "predicted": 0.05,
+        "actual": 0.046
+      },
+      {
+        "bin": 0.15,
+        "predicted": 0.15,
+        "actual": 0.157
+      },
+      {
+        "bin": 0.25,
+        "predicted": 0.25,
+        "actual": 0.255
+      },
+      {
+        "bin": 0.35,
+        "predicted": 0.35,
+        "actual": 0.356
+      },
+      {
+        "bin": 0.45,
+        "predicted": 0.45,
+        "actual": 0.459
+      },
+      {
+        "bin": 0.55,
+        "predicted": 0.55,
+        "actual": 0.551
+      },
+      {
+        "bin": 0.65,
+        "predicted": 0.65,
+        "actual": 0.632
+      },
+      {
+        "bin": 0.75,
+        "predicted": 0.75,
+        "actual": 0.724
+      },
+      {
+        "bin": 0.85,
+        "predicted": 0.85,
+        "actual": 0.835
+      },
+      {
+        "bin": 0.95,
+        "predicted": 0.95,
+        "actual": 0.926
+      }
+    ],
+    "feature_importance": [
+      {
+        "feature": "inactivity_days",
+        "importance": 0.0381
+      },
+      {
+        "feature": "txn_freq_90d",
+        "importance": 0.0649
+      },
+      {
+        "feature": "digital_ratio",
+        "importance": 0.1148
+      },
+      {
+        "feature": "complaint_count",
+        "importance": 0.0749
+      },
+      {
+        "feature": "salary_credit_count",
+        "importance": 0.1445
+      },
+      {
+        "feature": "balance",
+        "importance": 0.1745
+      },
+      {
+        "feature": "app_logins_30d",
+        "importance": 0.0731
+      },
+      {
+        "feature": "tenure_months",
+        "importance": 0.0578
+      },
+      {
+        "feature": "product_count",
+        "importance": 0.1301
+      },
+      {
+        "feature": "nps",
+        "importance": 0.1116
+      },
+      {
+        "feature": "avg_txn_amount",
+        "importance": 0.1431
+      },
+      {
+        "feature": "income",
+        "importance": 0.1187
+      },
+      {
+        "feature": "age",
+        "importance": 0.0647
+      },
+      {
+        "feature": "atm_withdrawals_90d",
+        "importance": 0.1658
+      }
+    ]
+  },
+  "uplift_stats": {
+    "ate_doubly_robust": 0.0412,
+    "ate_ci_lower": 0.0188,
+    "ate_ci_upper": 0.0636,
+    "qini_coefficient": 0.1847,
+    "treated_visit_rate": 0.1423,
+    "control_visit_rate": 0.1011,
+    "n_treated": 32,
+    "n_control": 18,
+    "qini_curve": [
+      {
+        "pct": 0.0,
+        "uplift": 0.0
+      },
+      {
+        "pct": 0.05,
+        "uplift": 0.0205
+      },
+      {
+        "pct": 0.1,
+        "uplift": 0.0399
+      },
+      {
+        "pct": 0.15,
+        "uplift": 0.0583
+      },
+      {
+        "pct": 0.2,
+        "uplift": 0.0756
+      },
+      {
+        "pct": 0.25,
+        "uplift": 0.0919
+      },
+      {
+        "pct": 0.3,
+        "uplift": 0.1071
+      },
+      {
+        "pct": 0.35,
+        "uplift": 0.1213
+      },
+      {
+        "pct": 0.4,
+        "uplift": 0.1344
+      },
+      {
+        "pct": 0.45,
+        "uplift": 0.1465
+      },
+      {
+        "pct": 0.5,
+        "uplift": 0.1575
+      },
+      {
+        "pct": 0.55,
+        "uplift": 0.1675
+      },
+      {
+        "pct": 0.6,
+        "uplift": 0.1764
+      },
+      {
+        "pct": 0.65,
+        "uplift": 0.1843
+      },
+      {
+        "pct": 0.7,
+        "uplift": 0.1911
+      },
+      {
+        "pct": 0.75,
+        "uplift": 0.1969
+      },
+      {
+        "pct": 0.8,
+        "uplift": 0.2016
+      },
+      {
+        "pct": 0.85,
+        "uplift": 0.2053
+      },
+      {
+        "pct": 0.9,
+        "uplift": 0.2079
+      },
+      {
+        "pct": 0.95,
+        "uplift": 0.2095
+      },
+      {
+        "pct": 1.0,
+        "uplift": 0.21
+      }
+    ]
+  },
+  "bandit_state": {
+    "arms": [
+      "Email",
+      "SMS",
+      "Push",
+      "Phone",
+      "RM_Visit"
+    ],
+    "true_rates": [
+      0.12,
+      0.09,
+      0.06,
+      0.22,
+      0.35
+    ],
+    "expected_reward": [
+      0.118,
+      0.091,
+      0.063,
+      0.219,
+      0.347
+    ],
+    "selection_counts": [
+      187,
+      142,
+      98,
+      312,
+      261
+    ],
+    "total_steps": 1000,
+    "regret_reduction_pct": 68.4,
+    "best_arm": "RM_Visit",
+    "posteriors": [
+      {
+        "arm": "Email",
+        "alpha": 23,
+        "beta": 170,
+        "mean": 0.119
+      },
+      {
+        "arm": "SMS",
+        "alpha": 13,
+        "beta": 129,
+        "mean": 0.091
+      },
+      {
+        "arm": "Push",
+        "alpha": 6,
+        "beta": 92,
+        "mean": 0.061
+      },
+      {
+        "arm": "Phone",
+        "alpha": 68,
+        "beta": 244,
+        "mean": 0.218
+      },
+      {
+        "arm": "RM_Visit",
+        "alpha": 91,
+        "beta": 171,
+        "mean": 0.347
+      }
+    ]
+  },
+  "top_at_risk": [
+    {
+      "customer_id": "CUST-046",
+      "full_name": "Geeta Mukherjee",
+      "segment": "Mass Affluent",
+      "churn_score": 0.9206,
+      "risk_tier": "PRIORITY",
+      "city": "Jaipur",
+      "alarm_count": 7
+    },
+    {
+      "customer_id": "CUST-043",
+      "full_name": "Pankaj Lal",
+      "segment": "Mass Affluent",
+      "churn_score": 0.9057,
+      "risk_tier": "PRIORITY",
+      "city": "Bangalore",
+      "alarm_count": 6
+    },
+    {
+      "customer_id": "CUST-045",
+      "full_name": "Sachin Ghosh",
+      "segment": "Mass Market",
+      "churn_score": 0.8801,
+      "risk_tier": "PRIORITY",
+      "city": "Pune",
+      "alarm_count": 8
+    },
+    {
+      "customer_id": "CUST-050",
+      "full_name": "Leela Bhatia",
+      "segment": "SME",
+      "churn_score": 0.877,
+      "risk_tier": "PRIORITY",
+      "city": "Bangalore",
+      "alarm_count": 8
+    },
+    {
+      "customer_id": "CUST-047",
+      "full_name": "Vivek Roy",
+      "segment": "Mass Market",
+      "churn_score": 0.8555,
+      "risk_tier": "PRIORITY",
+      "city": "Pune",
+      "alarm_count": 8
+    },
+    {
+      "customer_id": "CUST-044",
+      "full_name": "Sunita Dutta",
+      "segment": "Mass Affluent",
+      "churn_score": 0.8446,
+      "risk_tier": "PRIORITY",
+      "city": "Hyderabad",
+      "alarm_count": 5
+    },
+    {
+      "customer_id": "CUST-049",
+      "full_name": "Naveen Chakraborty",
+      "segment": "Mass Affluent",
+      "churn_score": 0.8217,
+      "risk_tier": "PRIORITY",
+      "city": "Chandigarh",
+      "alarm_count": 7
+    },
+    {
+      "customer_id": "CUST-048",
+      "full_name": "Madhu Sen",
+      "segment": "Mass Affluent",
+      "churn_score": 0.8117,
+      "risk_tier": "PRIORITY",
+      "city": "Nagpur",
+      "alarm_count": 8
+    },
+    {
+      "customer_id": "CUST-036",
+      "full_name": "Tanvi Desai",
+      "segment": "Mass Market",
+      "churn_score": 0.7956,
+      "risk_tier": "ESCALATE",
+      "city": "Bangalore",
+      "alarm_count": 4
+    },
+    {
+      "customer_id": "CUST-039",
+      "full_name": "Manoj Kapoor",
+      "segment": "SME",
+      "churn_score": 0.7874,
+      "risk_tier": "ESCALATE",
+      "city": "Hyderabad",
+      "alarm_count": 5
+    }
+  ]
+}

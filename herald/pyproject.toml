@@ -1,0 +1,41 @@
+[tool.poetry]
+name = "pcop-herald-layer5"
+version = "0.1.0"
+description = "HERALD — Hyper-personalised Engagement And Response for Lifecycle Driven-outreach"
+authors = ["PCOP Team"]
+packages = [{include = "services"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langgraph = "^0.2"
+langchain = "^0.3"
+langchain-openai = "^0.2"
+langchain-core = "^0.3"
+asyncpg = "^0.29"
+confluent-kafka = "^2.5"
+sendgrid = "^6.11"
+twilio = "^9.3"
+aiohttp = "^3.10"
+pydantic = "^2.8"
+python-dotenv = "^1.0"
+alembic = "^1.13"
+sqlalchemy = "^2.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^8.3"
+pytest-asyncio = "^0.23"
+pytest-cov = "^5.0"
+ruff = "^0.6"
+mypy = "^1.11"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["services/content/tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

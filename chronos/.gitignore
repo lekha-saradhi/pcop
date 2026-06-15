@@ -1,0 +1,74 @@
+# Implementation plan
+chronos_implementation_plan.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+.venv/
+venv/
+env/
+ENV/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Data files
+data/raw/
+data/processed/
+data/datasets
+*.csv
+*.parquet
+*.pkl
+*.joblib
+
+# ML checkpoints / models — specific files tracked below
+ml/checkpoints/*.pt
+ml/checkpoints/*.pth
+ml/checkpoints/*.ckpt
+ml/checkpoints/*.json
+ml/checkpoints/*.data
+ml/checkpoints/*.png
+ml/checkpoints/*.onnx
+!ml/checkpoints/aegis_reference.json
+!ml/checkpoints/causal_net_control.json
+!ml/checkpoints/causal_net_s_learner.json
+!ml/checkpoints/causal_net_treated.json
+!ml/checkpoints/fusion_weights.json
+!ml/checkpoints/genesis_lr.pkl
+!ml/checkpoints/habitat_pass1.json
+!ml/checkpoints/tare_churn.onnx
+!ml/checkpoints/tare_churn.onnx.data
+!ml/checkpoints/tare_finetune_best.pt
+!ml/checkpoints/tare_finetune_final.pt
+!ml/checkpoints/tare_pretrain_final.pt
+*.h5
+*.hdf5
+mlruns/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Docker
+.docker/

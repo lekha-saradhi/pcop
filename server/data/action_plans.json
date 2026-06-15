@@ -1,0 +1,822 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "action": "PUSH",
+    "channel": "sms",
+    "urgency": "MONTHLY",
+    "offer_code": "NONE",
+    "offer_display": "None",
+    "content_strategy": "none",
+    "rationale": "0 active ARGUS signals detected. Ensemble score 0.144 → NONE tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 1
+  },
+  {
+    "customer_id": "CUST-002",
+    "action": "PUSH",
+    "channel": "phone",
+    "urgency": "MONTHLY",
+    "offer_code": "NONE",
+    "offer_display": "None",
+    "content_strategy": "none",
+    "rationale": "0 active ARGUS signals detected. Ensemble score 0.125 → NONE tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 2
+  },
+  {
+    "customer_id": "CUST-003",
+    "action": "PUSH",
+    "channel": "phone",
+    "urgency": "MONTHLY",
+    "offer_code": "NONE",
+    "offer_display": "None",
+    "content_strategy": "none",
+    "rationale": "0 active ARGUS signals detected. Ensemble score 0.118 → NONE tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 3
+  },
+  {
+    "customer_id": "CUST-004",
+    "action": "PUSH",
+    "channel": "push",
+    "urgency": "MONTHLY",
+    "offer_code": "NONE",
+    "offer_display": "None",
+    "content_strategy": "none",
+    "rationale": "0 active ARGUS signals detected. Ensemble score 0.068 → NONE tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 4
+  },
+  {
+    "customer_id": "CUST-005",
+    "action": "PUSH",
+    "channel": "sms",
+    "urgency": "MONTHLY",
+    "offer_code": "NONE",
+    "offer_display": "None",
+    "content_strategy": "none",
+    "rationale": "0 active ARGUS signals detected. Ensemble score 0.117 → NONE tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 5
+  },
+  {
+    "customer_id": "CUST-006",
+    "action": "PUSH",
+    "channel": "branch",
+    "urgency": "MONTHLY",
+    "offer_code": "NONE",
+    "offer_display": "None",
+    "content_strategy": "none",
+    "rationale": "0 active ARGUS signals detected. Life event: SALARY_CHANGE. Ensemble score 0.168 → NONE tier. Urgency horizon: 90d.",
+    "life_event": "SALARY_CHANGE",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 6
+  },
+  {
+    "customer_id": "CUST-007",
+    "action": "PUSH",
+    "channel": "email",
+    "urgency": "MONTHLY",
+    "offer_code": "NONE",
+    "offer_display": "None",
+    "content_strategy": "none",
+    "rationale": "0 active ARGUS signals detected. Ensemble score 0.110 → NONE tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 7
+  },
+  {
+    "customer_id": "CUST-008",
+    "action": "PUSH",
+    "channel": "phone",
+    "urgency": "MONTHLY",
+    "offer_code": "NONE",
+    "offer_display": "None",
+    "content_strategy": "none",
+    "rationale": "0 active ARGUS signals detected. Ensemble score 0.044 → NONE tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 8
+  },
+  {
+    "customer_id": "CUST-009",
+    "action": "SMS",
+    "channel": "branch",
+    "urgency": "WEEKLY",
+    "offer_code": "ENGAGEMENT_REWARD",
+    "offer_display": "Engagement Reward",
+    "content_strategy": "light_touch",
+    "rationale": "1 active ARGUS signal detected. Life event: COMPLAINT_DRIVEN. Ensemble score 0.199 → MONITOR tier. Urgency horizon: 90d.",
+    "life_event": "COMPLAINT_DRIVEN",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 9
+  },
+  {
+    "customer_id": "CUST-010",
+    "action": "SMS",
+    "channel": "phone",
+    "urgency": "WEEKLY",
+    "offer_code": "ENGAGEMENT_REWARD",
+    "offer_display": "Engagement Reward",
+    "content_strategy": "light_touch",
+    "rationale": "1 active ARGUS signal detected. Ensemble score 0.266 → MONITOR tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 10
+  },
+  {
+    "customer_id": "CUST-011",
+    "action": "SMS",
+    "channel": "sms",
+    "urgency": "WEEKLY",
+    "offer_code": "ENGAGEMENT_REWARD",
+    "offer_display": "Engagement Reward",
+    "content_strategy": "light_touch",
+    "rationale": "1 active ARGUS signal detected. Ensemble score 0.251 → MONITOR tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 11
+  },
+  {
+    "customer_id": "CUST-012",
+    "action": "SMS",
+    "channel": "sms",
+    "urgency": "WEEKLY",
+    "offer_code": "ENGAGEMENT_REWARD",
+    "offer_display": "Engagement Reward",
+    "content_strategy": "light_touch",
+    "rationale": "1 active ARGUS signal detected. Ensemble score 0.326 → MONITOR tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 12
+  },
+  {
+    "customer_id": "CUST-013",
+    "action": "SMS",
+    "channel": "phone",
+    "urgency": "WEEKLY",
+    "offer_code": "ENGAGEMENT_REWARD",
+    "offer_display": "Engagement Reward",
+    "content_strategy": "light_touch",
+    "rationale": "1 active ARGUS signal detected. Ensemble score 0.310 → MONITOR tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 13
+  },
+  {
+    "customer_id": "CUST-014",
+    "action": "SMS",
+    "channel": "phone",
+    "urgency": "WEEKLY",
+    "offer_code": "ENGAGEMENT_REWARD",
+    "offer_display": "Engagement Reward",
+    "content_strategy": "light_touch",
+    "rationale": "1 active ARGUS signal detected. Ensemble score 0.201 → MONITOR tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 14
+  },
+  {
+    "customer_id": "CUST-015",
+    "action": "SMS",
+    "channel": "push",
+    "urgency": "WEEKLY",
+    "offer_code": "ENGAGEMENT_REWARD",
+    "offer_display": "Engagement Reward",
+    "content_strategy": "light_touch",
+    "rationale": "1 active ARGUS signal detected. Ensemble score 0.295 → MONITOR tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 15
+  },
+  {
+    "customer_id": "CUST-016",
+    "action": "SMS",
+    "channel": "push",
+    "urgency": "WEEKLY",
+    "offer_code": "ENGAGEMENT_REWARD",
+    "offer_display": "Engagement Reward",
+    "content_strategy": "light_touch",
+    "rationale": "1 active ARGUS signal detected. Ensemble score 0.228 → MONITOR tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 16
+  },
+  {
+    "customer_id": "CUST-017",
+    "action": "SMS",
+    "channel": "branch",
+    "urgency": "WEEKLY",
+    "offer_code": "ENGAGEMENT_REWARD",
+    "offer_display": "Engagement Reward",
+    "content_strategy": "light_touch",
+    "rationale": "1 active ARGUS signal detected. Life event: SALARY_CHANGE. Ensemble score 0.299 → MONITOR tier. Urgency horizon: 90d.",
+    "life_event": "SALARY_CHANGE",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 17
+  },
+  {
+    "customer_id": "CUST-018",
+    "action": "SMS",
+    "channel": "sms",
+    "urgency": "WEEKLY",
+    "offer_code": "ENGAGEMENT_REWARD",
+    "offer_display": "Engagement Reward",
+    "content_strategy": "light_touch",
+    "rationale": "1 active ARGUS signal detected. Ensemble score 0.336 → MONITOR tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 18
+  },
+  {
+    "customer_id": "CUST-019",
+    "action": "SMS",
+    "channel": "branch",
+    "urgency": "WEEKLY",
+    "offer_code": "ENGAGEMENT_REWARD",
+    "offer_display": "Engagement Reward",
+    "content_strategy": "light_touch",
+    "rationale": "1 active ARGUS signal detected. Ensemble score 0.266 → MONITOR tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 19
+  },
+  {
+    "customer_id": "CUST-020",
+    "action": "SMS",
+    "channel": "branch",
+    "urgency": "WEEKLY",
+    "offer_code": "ENGAGEMENT_REWARD",
+    "offer_display": "Engagement Reward",
+    "content_strategy": "light_touch",
+    "rationale": "1 active ARGUS signal detected. Ensemble score 0.344 → MONITOR tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 20
+  },
+  {
+    "customer_id": "CUST-021",
+    "action": "EMAIL",
+    "channel": "push",
+    "urgency": "72H",
+    "offer_code": "PRODUCT_UPGRADE",
+    "offer_display": "Product Upgrade",
+    "content_strategy": "standard",
+    "rationale": "3 active ARGUS signals detected. Ensemble score 0.574 → STANDARD tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 21
+  },
+  {
+    "customer_id": "CUST-022",
+    "action": "EMAIL",
+    "channel": "branch",
+    "urgency": "72H",
+    "offer_code": "PRODUCT_UPGRADE",
+    "offer_display": "Product Upgrade",
+    "content_strategy": "standard",
+    "rationale": "3 active ARGUS signals detected. Life event: JOB_CHANGE. Ensemble score 0.445 → STANDARD tier. Urgency horizon: 90d.",
+    "life_event": "JOB_CHANGE",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 22
+  },
+  {
+    "customer_id": "CUST-023",
+    "action": "EMAIL",
+    "channel": "phone",
+    "urgency": "72H",
+    "offer_code": "PRODUCT_UPGRADE",
+    "offer_display": "Product Upgrade",
+    "content_strategy": "standard",
+    "rationale": "2 active ARGUS signals detected. Ensemble score 0.408 → STANDARD tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 23
+  },
+  {
+    "customer_id": "CUST-024",
+    "action": "EMAIL",
+    "channel": "email",
+    "urgency": "72H",
+    "offer_code": "PRODUCT_UPGRADE",
+    "offer_display": "Product Upgrade",
+    "content_strategy": "standard",
+    "rationale": "2 active ARGUS signals detected. Life event: JOB_CHANGE. Ensemble score 0.583 → STANDARD tier. Urgency horizon: 90d.",
+    "life_event": "JOB_CHANGE",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 24
+  },
+  {
+    "customer_id": "CUST-025",
+    "action": "EMAIL",
+    "channel": "phone",
+    "urgency": "72H",
+    "offer_code": "PRODUCT_UPGRADE",
+    "offer_display": "Product Upgrade",
+    "content_strategy": "standard",
+    "rationale": "3 active ARGUS signals detected. Life event: SALARY_CHANGE. Ensemble score 0.472 → STANDARD tier. Urgency horizon: 90d.",
+    "life_event": "SALARY_CHANGE",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 25
+  },
+  {
+    "customer_id": "CUST-026",
+    "action": "EMAIL",
+    "channel": "branch",
+    "urgency": "72H",
+    "offer_code": "PRODUCT_UPGRADE",
+    "offer_display": "Product Upgrade",
+    "content_strategy": "standard",
+    "rationale": "3 active ARGUS signals detected. Life event: LIFE_MILESTONE. Ensemble score 0.568 → STANDARD tier. Urgency horizon: 90d.",
+    "life_event": "LIFE_MILESTONE",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 26
+  },
+  {
+    "customer_id": "CUST-027",
+    "action": "EMAIL",
+    "channel": "branch",
+    "urgency": "72H",
+    "offer_code": "PRODUCT_UPGRADE",
+    "offer_display": "Product Upgrade",
+    "content_strategy": "standard",
+    "rationale": "3 active ARGUS signals detected. Ensemble score 0.466 → STANDARD tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 27
+  },
+  {
+    "customer_id": "CUST-028",
+    "action": "EMAIL",
+    "channel": "phone",
+    "urgency": "72H",
+    "offer_code": "PRODUCT_UPGRADE",
+    "offer_display": "Product Upgrade",
+    "content_strategy": "standard",
+    "rationale": "2 active ARGUS signals detected. Life event: COMPLAINT_DRIVEN. Ensemble score 0.458 → STANDARD tier. Urgency horizon: 90d.",
+    "life_event": "COMPLAINT_DRIVEN",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 28
+  },
+  {
+    "customer_id": "CUST-029",
+    "action": "EMAIL",
+    "channel": "branch",
+    "urgency": "72H",
+    "offer_code": "PRODUCT_UPGRADE",
+    "offer_display": "Product Upgrade",
+    "content_strategy": "standard",
+    "rationale": "2 active ARGUS signals detected. Life event: LIFE_MILESTONE. Ensemble score 0.461 → STANDARD tier. Urgency horizon: 90d.",
+    "life_event": "LIFE_MILESTONE",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 29
+  },
+  {
+    "customer_id": "CUST-030",
+    "action": "EMAIL",
+    "channel": "email",
+    "urgency": "72H",
+    "offer_code": "PRODUCT_UPGRADE",
+    "offer_display": "Product Upgrade",
+    "content_strategy": "standard",
+    "rationale": "3 active ARGUS signals detected. Ensemble score 0.465 → STANDARD tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 30
+  },
+  {
+    "customer_id": "CUST-031",
+    "action": "EMAIL",
+    "channel": "email",
+    "urgency": "72H",
+    "offer_code": "PRODUCT_UPGRADE",
+    "offer_display": "Product Upgrade",
+    "content_strategy": "standard",
+    "rationale": "3 active ARGUS signals detected. Ensemble score 0.405 → STANDARD tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 31
+  },
+  {
+    "customer_id": "CUST-032",
+    "action": "EMAIL",
+    "channel": "branch",
+    "urgency": "72H",
+    "offer_code": "PRODUCT_UPGRADE",
+    "offer_display": "Product Upgrade",
+    "content_strategy": "standard",
+    "rationale": "3 active ARGUS signals detected. Ensemble score 0.466 → STANDARD tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 32
+  },
+  {
+    "customer_id": "CUST-033",
+    "action": "PHONE_CALL",
+    "channel": "phone",
+    "urgency": "24H",
+    "offer_code": "FEE_WAIVER",
+    "offer_display": "Fee Waiver",
+    "content_strategy": "full_retention",
+    "rationale": "4 active ARGUS signals detected. Life event: COMPETITOR_INQUIRY. Ensemble score 0.654 → ESCALATE tier. Urgency horizon: 30d.",
+    "life_event": "COMPETITOR_INQUIRY",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 33
+  },
+  {
+    "customer_id": "CUST-034",
+    "action": "PHONE_CALL",
+    "channel": "sms",
+    "urgency": "24H",
+    "offer_code": "FEE_WAIVER",
+    "offer_display": "Fee Waiver",
+    "content_strategy": "full_retention",
+    "rationale": "4 active ARGUS signals detected. Life event: COMPLAINT_DRIVEN. Ensemble score 0.637 → ESCALATE tier. Urgency horizon: 90d.",
+    "life_event": "COMPLAINT_DRIVEN",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 34
+  },
+  {
+    "customer_id": "CUST-035",
+    "action": "PHONE_CALL",
+    "channel": "email",
+    "urgency": "24H",
+    "offer_code": "FEE_WAIVER",
+    "offer_display": "Fee Waiver",
+    "content_strategy": "full_retention",
+    "rationale": "4 active ARGUS signals detected. Ensemble score 0.631 → ESCALATE tier. Urgency horizon: 90d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 35
+  },
+  {
+    "customer_id": "CUST-036",
+    "action": "PHONE_CALL",
+    "channel": "branch",
+    "urgency": "24H",
+    "offer_code": "FEE_WAIVER",
+    "offer_display": "Fee Waiver",
+    "content_strategy": "full_retention",
+    "rationale": "4 active ARGUS signals detected. Life event: LIFE_MILESTONE. Ensemble score 0.796 → ESCALATE tier. Urgency horizon: 30d.",
+    "life_event": "LIFE_MILESTONE",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 36
+  },
+  {
+    "customer_id": "CUST-037",
+    "action": "PHONE_CALL",
+    "channel": "branch",
+    "urgency": "24H",
+    "offer_code": "FEE_WAIVER",
+    "offer_display": "Fee Waiver",
+    "content_strategy": "full_retention",
+    "rationale": "5 active ARGUS signals detected. Life event: RELOCATION. Ensemble score 0.708 → ESCALATE tier. Urgency horizon: 30d.",
+    "life_event": "RELOCATION",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 37
+  },
+  {
+    "customer_id": "CUST-038",
+    "action": "PHONE_CALL",
+    "channel": "phone",
+    "urgency": "24H",
+    "offer_code": "FEE_WAIVER",
+    "offer_display": "Fee Waiver",
+    "content_strategy": "full_retention",
+    "rationale": "4 active ARGUS signals detected. Ensemble score 0.656 → ESCALATE tier. Urgency horizon: 30d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 38
+  },
+  {
+    "customer_id": "CUST-039",
+    "action": "PHONE_CALL",
+    "channel": "phone",
+    "urgency": "24H",
+    "offer_code": "FEE_WAIVER",
+    "offer_display": "Fee Waiver",
+    "content_strategy": "full_retention",
+    "rationale": "5 active ARGUS signals detected. Ensemble score 0.787 → ESCALATE tier. Urgency horizon: 30d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 39
+  },
+  {
+    "customer_id": "CUST-040",
+    "action": "PHONE_CALL",
+    "channel": "sms",
+    "urgency": "24H",
+    "offer_code": "FEE_WAIVER",
+    "offer_display": "Fee Waiver",
+    "content_strategy": "full_retention",
+    "rationale": "5 active ARGUS signals detected. Life event: FINANCIAL_STRESS. Ensemble score 0.673 → ESCALATE tier. Urgency horizon: 30d.",
+    "life_event": "FINANCIAL_STRESS",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 40
+  },
+  {
+    "customer_id": "CUST-041",
+    "action": "PHONE_CALL",
+    "channel": "sms",
+    "urgency": "24H",
+    "offer_code": "FEE_WAIVER",
+    "offer_display": "Fee Waiver",
+    "content_strategy": "full_retention",
+    "rationale": "4 active ARGUS signals detected. Ensemble score 0.694 → ESCALATE tier. Urgency horizon: 30d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 41
+  },
+  {
+    "customer_id": "CUST-042",
+    "action": "PHONE_CALL",
+    "channel": "phone",
+    "urgency": "24H",
+    "offer_code": "FEE_WAIVER",
+    "offer_display": "Fee Waiver",
+    "content_strategy": "full_retention",
+    "rationale": "5 active ARGUS signals detected. Life event: COMPETITOR_INQUIRY. Ensemble score 0.658 → ESCALATE tier. Urgency horizon: 30d.",
+    "life_event": "COMPETITOR_INQUIRY",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 42
+  },
+  {
+    "customer_id": "CUST-043",
+    "action": "RM_VISIT",
+    "channel": "email",
+    "urgency": "IMMEDIATE",
+    "offer_code": "RETENTION_OFFER",
+    "offer_display": "Retention Offer",
+    "content_strategy": "full_retention",
+    "rationale": "6 active ARGUS signals detected. Ensemble score 0.906 → PRIORITY tier. Urgency horizon: 30d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 43
+  },
+  {
+    "customer_id": "CUST-044",
+    "action": "RM_VISIT",
+    "channel": "branch",
+    "urgency": "IMMEDIATE",
+    "offer_code": "RETENTION_OFFER",
+    "offer_display": "Retention Offer",
+    "content_strategy": "full_retention",
+    "rationale": "5 active ARGUS signals detected. Ensemble score 0.845 → PRIORITY tier. Urgency horizon: 30d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 44
+  },
+  {
+    "customer_id": "CUST-045",
+    "action": "RM_VISIT",
+    "channel": "email",
+    "urgency": "IMMEDIATE",
+    "offer_code": "RETENTION_OFFER",
+    "offer_display": "Retention Offer",
+    "content_strategy": "full_retention",
+    "rationale": "8 active ARGUS signals detected. Life event: LIFE_MILESTONE. Ensemble score 0.880 → PRIORITY tier. Urgency horizon: 30d.",
+    "life_event": "LIFE_MILESTONE",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 45
+  },
+  {
+    "customer_id": "CUST-046",
+    "action": "RM_VISIT",
+    "channel": "email",
+    "urgency": "IMMEDIATE",
+    "offer_code": "RETENTION_OFFER",
+    "offer_display": "Retention Offer",
+    "content_strategy": "full_retention",
+    "rationale": "7 active ARGUS signals detected. Life event: COMPETITOR_INQUIRY. Ensemble score 0.921 → PRIORITY tier. Urgency horizon: 30d.",
+    "life_event": "COMPETITOR_INQUIRY",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 46
+  },
+  {
+    "customer_id": "CUST-047",
+    "action": "RM_VISIT",
+    "channel": "branch",
+    "urgency": "IMMEDIATE",
+    "offer_code": "RETENTION_OFFER",
+    "offer_display": "Retention Offer",
+    "content_strategy": "full_retention",
+    "rationale": "8 active ARGUS signals detected. Ensemble score 0.856 → PRIORITY tier. Urgency horizon: 30d.",
+    "life_event": null,
+    "suppressed": false,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "priority_rank": 47
+  },
+  {
+    "customer_id": "CUST-048",
+    "action": "RM_VISIT",
+    "channel": "email",
+    "urgency": "IMMEDIATE",
+    "offer_code": "RETENTION_OFFER",
+    "offer_display": "Retention Offer",
+    "content_strategy": "full_retention",
+    "rationale": "8 active ARGUS signals detected. Life event: JOB_CHANGE. Ensemble score 0.812 → PRIORITY tier. Urgency horizon: 30d.",
+    "life_event": "JOB_CHANGE",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 48
+  },
+  {
+    "customer_id": "CUST-049",
+    "action": "RM_VISIT",
+    "channel": "email",
+    "urgency": "IMMEDIATE",
+    "offer_code": "RETENTION_OFFER",
+    "offer_display": "Retention Offer",
+    "content_strategy": "full_retention",
+    "rationale": "7 active ARGUS signals detected. Life event: RETIREMENT. Ensemble score 0.822 → PRIORITY tier. Urgency horizon: 30d.",
+    "life_event": "RETIREMENT",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 49
+  },
+  {
+    "customer_id": "CUST-050",
+    "action": "RM_VISIT",
+    "channel": "branch",
+    "urgency": "IMMEDIATE",
+    "offer_code": "RETENTION_OFFER",
+    "offer_display": "Retention Offer",
+    "content_strategy": "full_retention",
+    "rationale": "8 active ARGUS signals detected. Life event: COMPETITOR_INQUIRY. Ensemble score 0.877 → PRIORITY tier. Urgency horizon: 30d.",
+    "life_event": "COMPETITOR_INQUIRY",
+    "suppressed": false,
+    "tone_modifiers": [
+      "empathetic",
+      "personalised"
+    ],
+    "priority_rank": 50
+  }
+]

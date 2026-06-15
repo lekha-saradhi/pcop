@@ -1,0 +1,61 @@
+{
+  "version": "1.0.0",
+  "datasets": [
+    {
+      "name": "mbd-mini",
+      "source": "huggingface",
+      "repo_id": "ai-lab/MBD-mini",
+      "subdirectory": "data/datasets/mbd-mini",
+      "expected_files": ["train.parquet", "test.parquet"],
+      "sha256": {}
+    },
+    {
+      "name": "pkdd99",
+      "source": "kaggle",
+      "dataset": "niteshyadav3103/czech-financial-dataset-pkdd-1999",
+      "subdirectory": "data/datasets/pkdd99",
+      "expected_files": ["account.csv", "card.csv", "client.csv", "disp.csv", "district.csv", "loan.csv", "order.csv", "trans.csv"],
+      "sha256": {}
+    },
+    {
+      "name": "bank-churn",
+      "source": "kaggle",
+      "dataset": "gauravtopre/bank-customer-churn-dataset",
+      "subdirectory": "data/datasets/bank-churn",
+      "expected_files": ["Bank Customer Churn Prediction.csv"],
+      "sha256": {}
+    },
+    {
+      "name": "bankchurners",
+      "source": "kaggle",
+      "dataset": "sakshigoyal7/credit-card-customers",
+      "subdirectory": "data/datasets/bankchurners",
+      "expected_files": ["BankChurners.csv"],
+      "sha256": {}
+    },
+    {
+      "name": "hillstrom",
+      "source": "scikit-uplift",
+      "function": "fetch_hillstrom",
+      "subdirectory": "data/datasets/hillstrom",
+      "expected_files": ["hillstrom.parquet"],
+      "sha256": {}
+    },
+    {
+      "name": "criteo-uplift",
+      "source": "scikit-uplift",
+      "function": "fetch_criteo",
+      "subdirectory": "data/datasets/criteo-uplift",
+      "expected_files": ["criteo_uplift.parquet"],
+      "sha256": {}
+    },
+    {
+      "name": "uci-bank-marketing",
+      "source": "uci",
+      "url": "https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank-additional.zip",
+      "subdirectory": "data/datasets/uci-bank-marketing",
+      "expected_files": ["bank-additional-full.csv", "bank-additional.csv"],
+      "sha256": {}
+    }
+  ]
+}

@@ -1,0 +1,3878 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "transactions": [
+      {
+        "date": "2025-05-04",
+        "amount": 6903.63,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-08",
+        "amount": 378.02,
+        "channel": "BRANCH",
+        "type": "TRANSFER",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-09",
+        "amount": 6375.04,
+        "channel": "BRANCH",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-11",
+        "amount": 2158.96,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-11",
+        "amount": 7199.52,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-11",
+        "amount": 1834.29,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-13",
+        "amount": 9513.87,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-13",
+        "amount": 5870.26,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-15",
+        "amount": 3667.35,
+        "channel": "BRANCH",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-17",
+        "amount": 2002.68,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-17",
+        "amount": 2346.51,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 1449.62,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 866.29,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-20",
+        "amount": 6456.83,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-22",
+        "amount": 2137.73,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-25",
+        "amount": 2386.73,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-26",
+        "amount": 6543.9,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-01",
+        "amount": 6807.12,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-03",
+        "amount": 3547.42,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-08",
+        "amount": 4549.52,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-14",
+        "amount": 1631.46,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-15",
+        "amount": 857.9,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-22",
+        "amount": 6351.75,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 3320.88,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 5808.0,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-28",
+        "amount": 474.03,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-28",
+        "amount": 1666.31,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 929.83,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Travel"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-002",
+    "transactions": [
+      {
+        "date": "2025-05-04",
+        "amount": 3503.15,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-07",
+        "amount": 201.92,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-12",
+        "amount": 1029.44,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-14",
+        "amount": 1013.68,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-22",
+        "amount": 132.64,
+        "channel": "BRANCH",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-22",
+        "amount": 6807.51,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-27",
+        "amount": 5114.23,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-28",
+        "amount": 8217.82,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 885.31,
+        "channel": "ATM",
+        "type": "WITHDRAWAL",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 4576.5,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-05",
+        "amount": 5718.42,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-08",
+        "amount": 2007.56,
+        "channel": "ONLINE",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-10",
+        "amount": 3444.4,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-10",
+        "amount": 534.78,
+        "channel": "ONLINE",
+        "type": "WITHDRAWAL",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-13",
+        "amount": 4020.28,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 4933.77,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 2846.92,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-17",
+        "amount": 2189.01,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-21",
+        "amount": 145.76,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-21",
+        "amount": 2689.63,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-22",
+        "amount": 1342.51,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 1415.72,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 358.36,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 379.86,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-28",
+        "amount": 2492.63,
+        "channel": "ONLINE",
+        "type": "CREDIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-28",
+        "amount": 2980.34,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Healthcare"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-003",
+    "transactions": [
+      {
+        "date": "2025-05-02",
+        "amount": 67.2,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-03",
+        "amount": 1235.51,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-03",
+        "amount": 1434.2,
+        "channel": "ATM",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-04",
+        "amount": 6515.16,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-05",
+        "amount": 3840.03,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-06",
+        "amount": 3481.6,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-11",
+        "amount": 3776.1,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-17",
+        "amount": 2301.82,
+        "channel": "POS",
+        "type": "WITHDRAWAL",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-17",
+        "amount": 3141.07,
+        "channel": "ATM",
+        "type": "WITHDRAWAL",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-20",
+        "amount": 1359.25,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-27",
+        "amount": 446.84,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 3922.22,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 1575.99,
+        "channel": "ONLINE",
+        "type": "WITHDRAWAL",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-08",
+        "amount": 1564.44,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 1889.98,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-12",
+        "amount": 688.57,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-17",
+        "amount": 5701.76,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-18",
+        "amount": 12708.13,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-19",
+        "amount": 393.27,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 107.25,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-22",
+        "amount": 5871.75,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-29",
+        "amount": 570.18,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-29",
+        "amount": 1762.96,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 1083.44,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-004",
+    "transactions": [
+      {
+        "date": "2025-05-15",
+        "amount": 1009.18,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-21",
+        "amount": 4375.58,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-24",
+        "amount": 5223.54,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-24",
+        "amount": 3754.63,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 3866.5,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-03",
+        "amount": 951.11,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-08",
+        "amount": 2109.55,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 12809.76,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-12",
+        "amount": 1636.6,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 3849.05,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-19",
+        "amount": 10404.94,
+        "channel": "BRANCH",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 5172.99,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 8993.51,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 334.41,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-29",
+        "amount": 8308.87,
+        "channel": "ATM",
+        "type": "WITHDRAWAL",
+        "category": "Grocery"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-005",
+    "transactions": [
+      {
+        "date": "2025-05-01",
+        "amount": 3262.19,
+        "channel": "ONLINE",
+        "type": "TRANSFER",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-02",
+        "amount": 2329.96,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-07",
+        "amount": 1417.47,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-09",
+        "amount": 677.63,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-09",
+        "amount": 170.72,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-10",
+        "amount": 2954.71,
+        "channel": "POS",
+        "type": "WITHDRAWAL",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-15",
+        "amount": 5725.96,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 2856.26,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-18",
+        "amount": 105.11,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-20",
+        "amount": 1713.09,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-26",
+        "amount": 4253.96,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-26",
+        "amount": 1127.34,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-26",
+        "amount": 3891.65,
+        "channel": "ATM",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-28",
+        "amount": 97.34,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-05",
+        "amount": 1836.28,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-08",
+        "amount": 714.5,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-09",
+        "amount": 1239.95,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 8392.52,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-17",
+        "amount": 853.68,
+        "channel": "BRANCH",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-18",
+        "amount": 1824.29,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-21",
+        "amount": 6995.99,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-24",
+        "amount": 2448.11,
+        "channel": "BRANCH",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 921.29,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 6051.56,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-006",
+    "transactions": [
+      {
+        "date": "2025-05-01",
+        "amount": 1257.93,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 992.79,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-03",
+        "amount": 196.22,
+        "channel": "BRANCH",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-11",
+        "amount": 1578.14,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-13",
+        "amount": 20.25,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-24",
+        "amount": 1762.32,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 5327.05,
+        "channel": "BRANCH",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-03",
+        "amount": 901.42,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-03",
+        "amount": 2851.16,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-04",
+        "amount": 2933.75,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-07",
+        "amount": 91.66,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-14",
+        "amount": 592.66,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-15",
+        "amount": 1350.01,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-17",
+        "amount": 651.81,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Travel"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-007",
+    "transactions": [
+      {
+        "date": "2025-05-08",
+        "amount": 3938.44,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-08",
+        "amount": 261.76,
+        "channel": "ONLINE",
+        "type": "CREDIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-10",
+        "amount": 3606.52,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 1401.31,
+        "channel": "ATM",
+        "type": "WITHDRAWAL",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-17",
+        "amount": 1814.83,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-18",
+        "amount": 1228.2,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-26",
+        "amount": 3366.04,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-27",
+        "amount": 2896.84,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-03",
+        "amount": 715.66,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-08",
+        "amount": 291.53,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-13",
+        "amount": 9389.92,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 700.55,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 8686.73,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-21",
+        "amount": 3102.1,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 3613.14,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 1202.85,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 1278.04,
+        "channel": "ONLINE",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 1813.8,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-29",
+        "amount": 339.89,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 2884.08,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Grocery"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-008",
+    "transactions": [
+      {
+        "date": "2025-05-04",
+        "amount": 2543.81,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-04",
+        "amount": 9362.68,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-06",
+        "amount": 496.87,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-07",
+        "amount": 2860.88,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-09",
+        "amount": 2126.13,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-14",
+        "amount": 9831.16,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-14",
+        "amount": 5504.09,
+        "channel": "POS",
+        "type": "WITHDRAWAL",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-14",
+        "amount": 4101.21,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-14",
+        "amount": 1387.37,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 4084.75,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-18",
+        "amount": 1270.14,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-22",
+        "amount": 828.03,
+        "channel": "ATM",
+        "type": "WITHDRAWAL",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-01",
+        "amount": 1399.97,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-08",
+        "amount": 8518.45,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-10",
+        "amount": 13422.43,
+        "channel": "ATM",
+        "type": "WITHDRAWAL",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 18782.86,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-15",
+        "amount": 2903.79,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-17",
+        "amount": 2868.66,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-17",
+        "amount": 15089.75,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-19",
+        "amount": 777.96,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-21",
+        "amount": 11268.39,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 9818.53,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 1397.47,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-29",
+        "amount": 4732.61,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Grocery"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-009",
+    "transactions": [
+      {
+        "date": "2025-05-10",
+        "amount": 23.11,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-11",
+        "amount": 64.55,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-24",
+        "amount": 349.83,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-25",
+        "amount": 86.58,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-29",
+        "amount": 388.24,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-01",
+        "amount": 2380.84,
+        "channel": "ATM",
+        "type": "CREDIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-01",
+        "amount": 185.58,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-01",
+        "amount": 1065.32,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-09",
+        "amount": 235.9,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-28",
+        "amount": 2377.68,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-010",
+    "transactions": [
+      {
+        "date": "2025-05-02",
+        "amount": 742.2,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-03",
+        "amount": 5290.33,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-05",
+        "amount": 821.2,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-07",
+        "amount": 6672.96,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-12",
+        "amount": 404.91,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-13",
+        "amount": 311.46,
+        "channel": "POS",
+        "type": "WITHDRAWAL",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-17",
+        "amount": 2172.43,
+        "channel": "ONLINE",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-18",
+        "amount": 2423.06,
+        "channel": "ONLINE",
+        "type": "CREDIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-27",
+        "amount": 4113.42,
+        "channel": "ATM",
+        "type": "CREDIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-29",
+        "amount": 147.56,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-29",
+        "amount": 45.53,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-05",
+        "amount": 198.24,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-09",
+        "amount": 630.66,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-12",
+        "amount": 2773.8,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 94.8,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 484.47,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 5053.67,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 115.07,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-28",
+        "amount": 554.57,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-011",
+    "transactions": [
+      {
+        "date": "2025-05-01",
+        "amount": 4419.05,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-02",
+        "amount": 1357.57,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-08",
+        "amount": 1105.21,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-15",
+        "amount": 1101.0,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-18",
+        "amount": 751.2,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 201.0,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-22",
+        "amount": 762.17,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-15",
+        "amount": 334.49,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-15",
+        "amount": 1257.15,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-19",
+        "amount": 682.59,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Salary"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-012",
+    "transactions": [
+      {
+        "date": "2025-05-01",
+        "amount": 831.29,
+        "channel": "ONLINE",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-02",
+        "amount": 539.29,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-09",
+        "amount": 476.84,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-12",
+        "amount": 1311.01,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 419.76,
+        "channel": "ONLINE",
+        "type": "CREDIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 1989.64,
+        "channel": "BRANCH",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-17",
+        "amount": 550.2,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-17",
+        "amount": 1460.31,
+        "channel": "BRANCH",
+        "type": "WITHDRAWAL",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-21",
+        "amount": 450.82,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-21",
+        "amount": 1501.85,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-26",
+        "amount": 18.67,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-26",
+        "amount": 1267.06,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-27",
+        "amount": 728.43,
+        "channel": "BRANCH",
+        "type": "CREDIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-10",
+        "amount": 1752.39,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 761.58,
+        "channel": "ATM",
+        "type": "CREDIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 346.21,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Rent"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-013",
+    "transactions": [
+      {
+        "date": "2025-05-01",
+        "amount": 803.48,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-13",
+        "amount": 415.88,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 1183.61,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-22",
+        "amount": 88.8,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-28",
+        "amount": 2121.06,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-29",
+        "amount": 896.9,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 629.48,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 1594.74,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 478.42,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-08",
+        "amount": 317.15,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 353.58,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 2558.19,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-17",
+        "amount": 496.88,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-18",
+        "amount": 331.27,
+        "channel": "ONLINE",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-19",
+        "amount": 18.14,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 2225.67,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-24",
+        "amount": 98.51,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-24",
+        "amount": 614.53,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 1013.28,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 306.44,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Rent"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-014",
+    "transactions": [
+      {
+        "date": "2025-05-04",
+        "amount": 2948.61,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-18",
+        "amount": 106.96,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-20",
+        "amount": 1893.95,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-28",
+        "amount": 82.02,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-03",
+        "amount": 1219.62,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-14",
+        "amount": 1261.52,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 44.05,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Rent"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-015",
+    "transactions": [
+      {
+        "date": "2025-05-03",
+        "amount": 1089.56,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-03",
+        "amount": 2641.93,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-03",
+        "amount": 1663.86,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-06",
+        "amount": 659.47,
+        "channel": "ONLINE",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-11",
+        "amount": 627.68,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-13",
+        "amount": 333.97,
+        "channel": "ONLINE",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-22",
+        "amount": 681.12,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-24",
+        "amount": 14.35,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 957.31,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-04",
+        "amount": 666.68,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-09",
+        "amount": 3457.04,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-21",
+        "amount": 1544.35,
+        "channel": "ATM",
+        "type": "CREDIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-21",
+        "amount": 436.03,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-24",
+        "amount": 604.04,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Entertainment"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-016",
+    "transactions": [
+      {
+        "date": "2025-05-04",
+        "amount": 653.17,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-04",
+        "amount": 2263.0,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-09",
+        "amount": 1800.77,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-11",
+        "amount": 4685.37,
+        "channel": "ATM",
+        "type": "WITHDRAWAL",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-25",
+        "amount": 984.46,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-28",
+        "amount": 2168.54,
+        "channel": "ATM",
+        "type": "WITHDRAWAL",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 246.5,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-04",
+        "amount": 296.22,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-09",
+        "amount": 10139.28,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-10",
+        "amount": 138.55,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 1501.69,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 164.33,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-18",
+        "amount": 486.71,
+        "channel": "ATM",
+        "type": "WITHDRAWAL",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 903.92,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 1062.09,
+        "channel": "BRANCH",
+        "type": "TRANSFER",
+        "category": "Rent"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-017",
+    "transactions": [
+      {
+        "date": "2025-05-01",
+        "amount": 361.16,
+        "channel": "ONLINE",
+        "type": "TRANSFER",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-02",
+        "amount": 183.44,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-07",
+        "amount": 847.28,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 764.1,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 2210.46,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 757.12,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-018",
+    "transactions": [
+      {
+        "date": "2025-05-06",
+        "amount": 5814.0,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-07",
+        "amount": 2335.14,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-20",
+        "amount": 12.37,
+        "channel": "BRANCH",
+        "type": "CREDIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-29",
+        "amount": 568.74,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-01",
+        "amount": 854.36,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-05",
+        "amount": 361.39,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-09",
+        "amount": 2888.87,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-10",
+        "amount": 3905.26,
+        "channel": "ATM",
+        "type": "CREDIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-13",
+        "amount": 398.5,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 2411.25,
+        "channel": "BRANCH",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-18",
+        "amount": 2324.75,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-18",
+        "amount": 581.82,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 1176.39,
+        "channel": "ATM",
+        "type": "WITHDRAWAL",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-24",
+        "amount": 291.25,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-28",
+        "amount": 4787.6,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 251.88,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Grocery"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-019",
+    "transactions": [
+      {
+        "date": "2025-05-02",
+        "amount": 2025.14,
+        "channel": "ONLINE",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-03",
+        "amount": 296.97,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-05",
+        "amount": 2464.84,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-06",
+        "amount": 352.18,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-10",
+        "amount": 68.07,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-14",
+        "amount": 2472.47,
+        "channel": "BRANCH",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 2039.57,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-21",
+        "amount": 4027.64,
+        "channel": "POS",
+        "type": "WITHDRAWAL",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-04",
+        "amount": 181.08,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-04",
+        "amount": 115.83,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 6181.54,
+        "channel": "ATM",
+        "type": "WITHDRAWAL",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-21",
+        "amount": 1323.03,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-24",
+        "amount": 501.95,
+        "channel": "BRANCH",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 737.48,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Rent"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-020",
+    "transactions": [
+      {
+        "date": "2025-05-02",
+        "amount": 2378.27,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-05",
+        "amount": 727.3,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-05",
+        "amount": 685.21,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-05",
+        "amount": 1878.94,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-08",
+        "amount": 949.25,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-10",
+        "amount": 1590.34,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-14",
+        "amount": 354.4,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-15",
+        "amount": 2170.53,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-18",
+        "amount": 753.36,
+        "channel": "BRANCH",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-22",
+        "amount": 392.24,
+        "channel": "BRANCH",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 418.44,
+        "channel": "ATM",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-07",
+        "amount": 594.18,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 2116.25,
+        "channel": "BRANCH",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-24",
+        "amount": 2364.78,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 61.69,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 2355.95,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Travel"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-021",
+    "transactions": [
+      {
+        "date": "2025-05-17",
+        "amount": 377.45,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-25",
+        "amount": 52.95,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-09",
+        "amount": 791.97,
+        "channel": "POS",
+        "type": "WITHDRAWAL",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-18",
+        "amount": 1054.34,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 301.77,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-022",
+    "transactions": [
+      {
+        "date": "2025-05-03",
+        "amount": 573.56,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-22",
+        "amount": 602.89,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-04",
+        "amount": 248.97,
+        "channel": "ATM",
+        "type": "CREDIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-09",
+        "amount": 2037.24,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 601.63,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-023",
+    "transactions": [
+      {
+        "date": "2025-05-10",
+        "amount": 1491.69,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-05",
+        "amount": 415.31,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 556.39,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-28",
+        "amount": 376.94,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-024",
+    "transactions": [
+      {
+        "date": "2025-05-04",
+        "amount": 113.26,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-06",
+        "amount": 281.22,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-09",
+        "amount": 1169.64,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-10",
+        "amount": 336.52,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-15",
+        "amount": 653.87,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-03",
+        "amount": 1187.1,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 891.68,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-19",
+        "amount": 355.44,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 339.48,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-24",
+        "amount": 1123.71,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Travel"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-025",
+    "transactions": [
+      {
+        "date": "2025-05-15",
+        "amount": 403.79,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-17",
+        "amount": 626.79,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-22",
+        "amount": 397.63,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-27",
+        "amount": 214.85,
+        "channel": "ONLINE",
+        "type": "CREDIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-28",
+        "amount": 160.53,
+        "channel": "ATM",
+        "type": "CREDIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-08",
+        "amount": 234.47,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 402.3,
+        "channel": "BRANCH",
+        "type": "TRANSFER",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-13",
+        "amount": 1186.05,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-17",
+        "amount": 424.58,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-18",
+        "amount": 1022.92,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-026",
+    "transactions": [
+      {
+        "date": "2025-05-12",
+        "amount": 1394.0,
+        "channel": "ONLINE",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-15",
+        "amount": 657.91,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 192.16,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-19",
+        "amount": 1236.08,
+        "channel": "ATM",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-29",
+        "amount": 558.22,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Healthcare"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-027",
+    "transactions": [
+      {
+        "date": "2025-05-01",
+        "amount": 243.78,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-05",
+        "amount": 212.27,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-07",
+        "amount": 818.49,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 158.6,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-15",
+        "amount": 494.17,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Travel"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-028",
+    "transactions": [
+      {
+        "date": "2025-05-10",
+        "amount": 96.12,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-25",
+        "amount": 52.69,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 2236.14,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-05",
+        "amount": 0.03,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-06",
+        "amount": 251.67,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-06",
+        "amount": 771.72,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-17",
+        "amount": 5.45,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-21",
+        "amount": 762.12,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 56.79,
+        "channel": "BRANCH",
+        "type": "TRANSFER",
+        "category": "Rent"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-029",
+    "transactions": [
+      {
+        "date": "2025-05-08",
+        "amount": 1864.69,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-15",
+        "amount": 572.28,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-28",
+        "amount": 927.65,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-29",
+        "amount": 205.92,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-09",
+        "amount": 388.73,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 440.11,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-14",
+        "amount": 707.91,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 570.56,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 686.73,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Travel"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-030",
+    "transactions": [
+      {
+        "date": "2025-05-02",
+        "amount": 361.39,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-24",
+        "amount": 112.74,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-04",
+        "amount": 476.15,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-06",
+        "amount": 617.79,
+        "channel": "BRANCH",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 729.78,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-12",
+        "amount": 272.28,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-28",
+        "amount": 1103.87,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-29",
+        "amount": 2179.23,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-29",
+        "amount": 76.79,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-031",
+    "transactions": [
+      {
+        "date": "2025-05-05",
+        "amount": 373.22,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-08",
+        "amount": 1293.35,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-14",
+        "amount": 319.65,
+        "channel": "ONLINE",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 659.87,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-28",
+        "amount": 1358.77,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-29",
+        "amount": 315.82,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-07",
+        "amount": 1465.61,
+        "channel": "ONLINE",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-08",
+        "amount": 366.54,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 1498.73,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 4595.09,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-22",
+        "amount": 246.81,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 1411.76,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-29",
+        "amount": 600.21,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 1722.65,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Utilities"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-032",
+    "transactions": [
+      {
+        "date": "2025-05-04",
+        "amount": 1042.73,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-22",
+        "amount": 1042.68,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-25",
+        "amount": 28.19,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-29",
+        "amount": 25.32,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-01",
+        "amount": 309.45,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-01",
+        "amount": 222.81,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-10",
+        "amount": 334.44,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-28",
+        "amount": 101.28,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Travel"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-033",
+    "transactions": [
+      {
+        "date": "2025-05-01",
+        "amount": 713.31,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-14",
+        "amount": 16.72,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-23",
+        "amount": 141.18,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-034",
+    "transactions": [
+      {
+        "date": "2025-05-02",
+        "amount": 41.81,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-13",
+        "amount": 93.15,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-035",
+    "transactions": [
+      {
+        "date": "2025-05-03",
+        "amount": 1287.51,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-29",
+        "amount": 2853.2,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-13",
+        "amount": 254.4,
+        "channel": "ATM",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-28",
+        "amount": 1433.16,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-036",
+    "transactions": [
+      {
+        "date": "2025-05-08",
+        "amount": 512.28,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-08",
+        "amount": 489.21,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-21",
+        "amount": 2336.86,
+        "channel": "BRANCH",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-27",
+        "amount": 267.05,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 1317.06,
+        "channel": "ONLINE",
+        "type": "TRANSFER",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 611.35,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-14",
+        "amount": 297.32,
+        "channel": "ONLINE",
+        "type": "TRANSFER",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 847.69,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 811.37,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-29",
+        "amount": 633.87,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Dining"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-037",
+    "transactions": [
+      {
+        "date": "2025-05-06",
+        "amount": 337.4,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-05-08",
+        "amount": 665.99,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-11",
+        "amount": 172.55,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-17",
+        "amount": 412.85,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-17",
+        "amount": 458.14,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-03",
+        "amount": 826.87,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 174.28,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Entertainment"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-038",
+    "transactions": [
+      {
+        "date": "2025-05-05",
+        "amount": 941.02,
+        "channel": "ATM",
+        "type": "CREDIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-15",
+        "amount": 1468.86,
+        "channel": "BRANCH",
+        "type": "TRANSFER",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-20",
+        "amount": 696.18,
+        "channel": "APP",
+        "type": "WITHDRAWAL",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 176.0,
+        "channel": "BRANCH",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 326.28,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-29",
+        "amount": 522.78,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Rent"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-039",
+    "transactions": [
+      {
+        "date": "2025-05-13",
+        "amount": 640.3,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Grocery"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-040",
+    "transactions": [
+      {
+        "date": "2025-05-04",
+        "amount": 210.92,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-05",
+        "amount": 568.0,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-11",
+        "amount": 474.56,
+        "channel": "POS",
+        "type": "WITHDRAWAL",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-12",
+        "amount": 225.39,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 1429.28,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 396.58,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 139.44,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Rent"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-041",
+    "transactions": [
+      {
+        "date": "2025-05-09",
+        "amount": 853.33,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-18",
+        "amount": 2307.61,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-12",
+        "amount": 1483.04,
+        "channel": "ONLINE",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-28",
+        "amount": 87.26,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-042",
+    "transactions": [
+      {
+        "date": "2025-05-01",
+        "amount": 582.68,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-05-05",
+        "amount": 1717.43,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-15",
+        "amount": 42.47,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-28",
+        "amount": 28.18,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 231.46,
+        "channel": "POS",
+        "type": "CREDIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-06-10",
+        "amount": 251.92,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-15",
+        "amount": 1301.32,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-043",
+    "transactions": [
+      {
+        "date": "2025-05-21",
+        "amount": 1535.46,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-21",
+        "amount": 16.53,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-28",
+        "amount": 596.55,
+        "channel": "ATM",
+        "type": "CREDIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 68.21,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Entertainment"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-044",
+    "transactions": [
+      {
+        "date": "2025-05-20",
+        "amount": 163.9,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 26.82,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-04",
+        "amount": 44.3,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-06",
+        "amount": 25.15,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Rent"
+      },
+      {
+        "date": "2025-06-08",
+        "amount": 141.83,
+        "channel": "ATM",
+        "type": "TRANSFER",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 265.63,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Grocery"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-045",
+    "transactions": [
+      {
+        "date": "2025-05-07",
+        "amount": 326.5,
+        "channel": "BRANCH",
+        "type": "TRANSFER",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-20",
+        "amount": 188.73,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-05",
+        "amount": 73.53,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-06",
+        "amount": 317.35,
+        "channel": "POS",
+        "type": "TRANSFER",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 115.85,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-046",
+    "transactions": [
+      {
+        "date": "2025-05-25",
+        "amount": 287.42,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-15",
+        "amount": 250.87,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-19",
+        "amount": 851.55,
+        "channel": "ONLINE",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 142.55,
+        "channel": "BRANCH",
+        "type": "TRANSFER",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 311.02,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Utilities"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-047",
+    "transactions": [
+      {
+        "date": "2025-05-10",
+        "amount": 95.57,
+        "channel": "ATM",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-05-12",
+        "amount": 43.84,
+        "channel": "APP",
+        "type": "CREDIT",
+        "category": "Salary"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-048",
+    "transactions": [
+      {
+        "date": "2025-05-05",
+        "amount": 335.94,
+        "channel": "ONLINE",
+        "type": "CREDIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-05-12",
+        "amount": 24.78,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Salary"
+      },
+      {
+        "date": "2025-05-20",
+        "amount": 37.89,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Entertainment"
+      },
+      {
+        "date": "2025-06-09",
+        "amount": 935.42,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-15",
+        "amount": 365.83,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-28",
+        "amount": 52.38,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Dining"
+      },
+      {
+        "date": "2025-06-29",
+        "amount": 1128.1,
+        "channel": "POS",
+        "type": "WITHDRAWAL",
+        "category": "Entertainment"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-049",
+    "transactions": [
+      {
+        "date": "2025-05-03",
+        "amount": 45.82,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Utilities"
+      },
+      {
+        "date": "2025-05-18",
+        "amount": 1320.31,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-08",
+        "amount": 624.63,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Healthcare"
+      },
+      {
+        "date": "2025-06-15",
+        "amount": 867.54,
+        "channel": "POS",
+        "type": "DEBIT",
+        "category": "Travel"
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 505.74,
+        "channel": "APP",
+        "type": "TRANSFER",
+        "category": "Grocery"
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 1125.98,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Salary"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-050",
+    "transactions": [
+      {
+        "date": "2025-06-23",
+        "amount": 182.36,
+        "channel": "APP",
+        "type": "DEBIT",
+        "category": "Rent"
+      }
+    ]
+  }
+]

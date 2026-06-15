@@ -1,0 +1,14 @@
+topics:
+  - name: pcop.alarms.v1
+    partitions: 6
+    replication_factor: 3
+    config:
+      retention.ms: 259200000   # 3 days
+      cleanup.policy: delete
+
+  - name: pcop.action_plans.v1
+    partitions: 6
+    replication_factor: 3
+    config:
+      retention.ms: 259200000   # 3 days
+      cleanup.policy: delete

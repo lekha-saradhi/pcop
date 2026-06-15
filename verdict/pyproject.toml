@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "verdict"
+version = "0.1.0"
+description = "PCOP v3.0 Layer 6 — VERDICT: Verified Effectiveness & Retention Data Intelligence for Causal Treatment"
+packages = [{ include = "services" }]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pydantic = "^2.7"
+asyncpg = "^0.29"
+confluent-kafka = "^2.4"
+causalml = "^0.15"
+scikit-learn = "^1.5"
+numpy = "^1.26"
+pandas = "^2.2"
+scipy = "^1.13"
+apscheduler = "^3.10"
+python-dotenv = "^1.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^8.2"
+pytest-asyncio = "^0.23"
+pytest-mock = "^3.12"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["services/measurement/tests"]

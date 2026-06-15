@@ -1,0 +1,1599 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "signals": [],
+    "alarm_count": 0
+  },
+  {
+    "customer_id": "CUST-002",
+    "signals": [],
+    "alarm_count": 0
+  },
+  {
+    "customer_id": "CUST-003",
+    "signals": [],
+    "alarm_count": 0
+  },
+  {
+    "customer_id": "CUST-004",
+    "signals": [],
+    "alarm_count": 0
+  },
+  {
+    "customer_id": "CUST-005",
+    "signals": [],
+    "alarm_count": 0
+  },
+  {
+    "customer_id": "CUST-006",
+    "signals": [],
+    "alarm_count": 0
+  },
+  {
+    "customer_id": "CUST-007",
+    "signals": [],
+    "alarm_count": 0
+  },
+  {
+    "customer_id": "CUST-008",
+    "signals": [],
+    "alarm_count": 0
+  },
+  {
+    "customer_id": "CUST-009",
+    "signals": [
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.97,
+        "cusum_value": 20.48,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 35
+      }
+    ],
+    "alarm_count": 1
+  },
+  {
+    "customer_id": "CUST-010",
+    "signals": [
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.69,
+        "cusum_value": 11.59,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 5
+      }
+    ],
+    "alarm_count": 1
+  },
+  {
+    "customer_id": "CUST-011",
+    "signals": [
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.85,
+        "cusum_value": 20.18,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 28
+      }
+    ],
+    "alarm_count": 1
+  },
+  {
+    "customer_id": "CUST-012",
+    "signals": [
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.96,
+        "cusum_value": 27.9,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 37
+      }
+    ],
+    "alarm_count": 1
+  },
+  {
+    "customer_id": "CUST-013",
+    "signals": [
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.79,
+        "cusum_value": 22.79,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 31
+      }
+    ],
+    "alarm_count": 1
+  },
+  {
+    "customer_id": "CUST-014",
+    "signals": [
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.96,
+        "cusum_value": 14.76,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 16
+      }
+    ],
+    "alarm_count": 1
+  },
+  {
+    "customer_id": "CUST-015",
+    "signals": [
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.92,
+        "cusum_value": 13.33,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 23
+      }
+    ],
+    "alarm_count": 1
+  },
+  {
+    "customer_id": "CUST-016",
+    "signals": [
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.88,
+        "cusum_value": 18.79,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 28
+      }
+    ],
+    "alarm_count": 1
+  },
+  {
+    "customer_id": "CUST-017",
+    "signals": [
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.66,
+        "cusum_value": 24.91,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 8
+      }
+    ],
+    "alarm_count": 1
+  },
+  {
+    "customer_id": "CUST-018",
+    "signals": [
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.7,
+        "cusum_value": 18.31,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 7
+      }
+    ],
+    "alarm_count": 1
+  },
+  {
+    "customer_id": "CUST-019",
+    "signals": [
+      {
+        "signal_type": "txn_frequency",
+        "detected": true,
+        "confidence": 0.66,
+        "cusum_value": 25.69,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 5
+      }
+    ],
+    "alarm_count": 1
+  },
+  {
+    "customer_id": "CUST-020",
+    "signals": [
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.93,
+        "cusum_value": 14.03,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 7
+      }
+    ],
+    "alarm_count": 1
+  },
+  {
+    "customer_id": "CUST-021",
+    "signals": [
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.71,
+        "cusum_value": 6.52,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 1
+      },
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.96,
+        "cusum_value": 20.18,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 22
+      },
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.79,
+        "cusum_value": 7.99,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 11
+      }
+    ],
+    "alarm_count": 3
+  },
+  {
+    "customer_id": "CUST-022",
+    "signals": [
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.95,
+        "cusum_value": 8.21,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 11
+      },
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.66,
+        "cusum_value": 11.45,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 40
+      },
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.92,
+        "cusum_value": 9.54,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 29
+      }
+    ],
+    "alarm_count": 3
+  },
+  {
+    "customer_id": "CUST-023",
+    "signals": [
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.69,
+        "cusum_value": 11.2,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 39
+      },
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.66,
+        "cusum_value": 26.13,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 2
+      }
+    ],
+    "alarm_count": 2
+  },
+  {
+    "customer_id": "CUST-024",
+    "signals": [
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.64,
+        "cusum_value": 15.81,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 36
+      },
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.67,
+        "cusum_value": 19.73,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 6
+      }
+    ],
+    "alarm_count": 2
+  },
+  {
+    "customer_id": "CUST-025",
+    "signals": [
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.65,
+        "cusum_value": 20.52,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 6
+      },
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.85,
+        "cusum_value": 5.94,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 29
+      },
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.73,
+        "cusum_value": 9.95,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 8
+      }
+    ],
+    "alarm_count": 3
+  },
+  {
+    "customer_id": "CUST-026",
+    "signals": [
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.94,
+        "cusum_value": 26.29,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 11
+      },
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.92,
+        "cusum_value": 27.51,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 1
+      },
+      {
+        "signal_type": "txn_frequency",
+        "detected": true,
+        "confidence": 0.89,
+        "cusum_value": 22.66,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 33
+      }
+    ],
+    "alarm_count": 3
+  },
+  {
+    "customer_id": "CUST-027",
+    "signals": [
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.96,
+        "cusum_value": 7.07,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 42
+      },
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.67,
+        "cusum_value": 23.29,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 11
+      },
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.93,
+        "cusum_value": 20.43,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 12
+      }
+    ],
+    "alarm_count": 3
+  },
+  {
+    "customer_id": "CUST-028",
+    "signals": [
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.9,
+        "cusum_value": 16.55,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 33
+      },
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.93,
+        "cusum_value": 8.74,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 26
+      }
+    ],
+    "alarm_count": 2
+  },
+  {
+    "customer_id": "CUST-029",
+    "signals": [
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.68,
+        "cusum_value": 9.45,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 2
+      },
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.76,
+        "cusum_value": 27.78,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 37
+      }
+    ],
+    "alarm_count": 2
+  },
+  {
+    "customer_id": "CUST-030",
+    "signals": [
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.62,
+        "cusum_value": 10.28,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 3
+      },
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.93,
+        "cusum_value": 20.04,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 35
+      },
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.93,
+        "cusum_value": 16.07,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 8
+      }
+    ],
+    "alarm_count": 3
+  },
+  {
+    "customer_id": "CUST-031",
+    "signals": [
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.97,
+        "cusum_value": 6.49,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 24
+      },
+      {
+        "signal_type": "txn_frequency",
+        "detected": true,
+        "confidence": 0.76,
+        "cusum_value": 12.79,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 21
+      },
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.82,
+        "cusum_value": 23.64,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 42
+      }
+    ],
+    "alarm_count": 3
+  },
+  {
+    "customer_id": "CUST-032",
+    "signals": [
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.94,
+        "cusum_value": 18.94,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 5
+      },
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.64,
+        "cusum_value": 26.77,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 30
+      },
+      {
+        "signal_type": "txn_frequency",
+        "detected": true,
+        "confidence": 0.76,
+        "cusum_value": 26.29,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 41
+      }
+    ],
+    "alarm_count": 3
+  },
+  {
+    "customer_id": "CUST-033",
+    "signals": [
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.96,
+        "cusum_value": 19.16,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 25
+      },
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.77,
+        "cusum_value": 13.82,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 6
+      },
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.66,
+        "cusum_value": 23.38,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 19
+      },
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.91,
+        "cusum_value": 11.9,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 32
+      }
+    ],
+    "alarm_count": 4
+  },
+  {
+    "customer_id": "CUST-034",
+    "signals": [
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.85,
+        "cusum_value": 25.11,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 39
+      },
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.77,
+        "cusum_value": 15.2,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 28
+      },
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.63,
+        "cusum_value": 17.53,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 17
+      },
+      {
+        "signal_type": "txn_frequency",
+        "detected": true,
+        "confidence": 0.96,
+        "cusum_value": 6.41,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 44
+      }
+    ],
+    "alarm_count": 4
+  },
+  {
+    "customer_id": "CUST-035",
+    "signals": [
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.65,
+        "cusum_value": 25.01,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 6
+      },
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.91,
+        "cusum_value": 27.46,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 32
+      },
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.91,
+        "cusum_value": 26.73,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 28
+      },
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.9,
+        "cusum_value": 17.78,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 6
+      }
+    ],
+    "alarm_count": 4
+  },
+  {
+    "customer_id": "CUST-036",
+    "signals": [
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.64,
+        "cusum_value": 8.96,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 42
+      },
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.69,
+        "cusum_value": 18.29,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 3
+      },
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.94,
+        "cusum_value": 17.59,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 30
+      },
+      {
+        "signal_type": "txn_frequency",
+        "detected": true,
+        "confidence": 0.69,
+        "cusum_value": 23.51,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 28
+      }
+    ],
+    "alarm_count": 4
+  },
+  {
+    "customer_id": "CUST-037",
+    "signals": [
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.84,
+        "cusum_value": 6.64,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 27
+      },
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.78,
+        "cusum_value": 25.68,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 44
+      },
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.79,
+        "cusum_value": 6.86,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 36
+      },
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.85,
+        "cusum_value": 23.09,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 37
+      },
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.77,
+        "cusum_value": 19.85,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 9
+      }
+    ],
+    "alarm_count": 5
+  },
+  {
+    "customer_id": "CUST-038",
+    "signals": [
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.68,
+        "cusum_value": 13.55,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 35
+      },
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.67,
+        "cusum_value": 11.65,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 22
+      },
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.73,
+        "cusum_value": 8.36,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 32
+      },
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.87,
+        "cusum_value": 7.07,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 25
+      }
+    ],
+    "alarm_count": 4
+  },
+  {
+    "customer_id": "CUST-039",
+    "signals": [
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.93,
+        "cusum_value": 25.94,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 23
+      },
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.78,
+        "cusum_value": 7.33,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 35
+      },
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.63,
+        "cusum_value": 16.24,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 21
+      },
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.76,
+        "cusum_value": 18.28,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 22
+      },
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.81,
+        "cusum_value": 24.32,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 44
+      }
+    ],
+    "alarm_count": 5
+  },
+  {
+    "customer_id": "CUST-040",
+    "signals": [
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.91,
+        "cusum_value": 20.83,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 30
+      },
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.68,
+        "cusum_value": 23.77,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 9
+      },
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.71,
+        "cusum_value": 26.05,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 34
+      },
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.86,
+        "cusum_value": 23.83,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 7
+      },
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.7,
+        "cusum_value": 11.71,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 16
+      }
+    ],
+    "alarm_count": 5
+  },
+  {
+    "customer_id": "CUST-041",
+    "signals": [
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.76,
+        "cusum_value": 14.58,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 11
+      },
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.71,
+        "cusum_value": 21.92,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 41
+      },
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.88,
+        "cusum_value": 7.7,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 19
+      },
+      {
+        "signal_type": "txn_frequency",
+        "detected": true,
+        "confidence": 0.69,
+        "cusum_value": 9.67,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 21
+      }
+    ],
+    "alarm_count": 4
+  },
+  {
+    "customer_id": "CUST-042",
+    "signals": [
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.92,
+        "cusum_value": 12.38,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 5
+      },
+      {
+        "signal_type": "txn_frequency",
+        "detected": true,
+        "confidence": 0.89,
+        "cusum_value": 8.39,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 28
+      },
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.89,
+        "cusum_value": 26.62,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 5
+      },
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.77,
+        "cusum_value": 25.23,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 33
+      },
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.8,
+        "cusum_value": 22.26,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 3
+      }
+    ],
+    "alarm_count": 5
+  },
+  {
+    "customer_id": "CUST-043",
+    "signals": [
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.72,
+        "cusum_value": 23.23,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 27
+      },
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.96,
+        "cusum_value": 25.38,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 17
+      },
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.73,
+        "cusum_value": 22.83,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 10
+      },
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.83,
+        "cusum_value": 20.32,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 15
+      },
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.91,
+        "cusum_value": 6.05,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 21
+      },
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.87,
+        "cusum_value": 18.18,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 10
+      }
+    ],
+    "alarm_count": 6
+  },
+  {
+    "customer_id": "CUST-044",
+    "signals": [
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.81,
+        "cusum_value": 16.21,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 6
+      },
+      {
+        "signal_type": "txn_frequency",
+        "detected": true,
+        "confidence": 0.84,
+        "cusum_value": 10.03,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 20
+      },
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.93,
+        "cusum_value": 23.76,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 3
+      },
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.82,
+        "cusum_value": 8.67,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 16
+      },
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.96,
+        "cusum_value": 25.82,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 30
+      }
+    ],
+    "alarm_count": 5
+  },
+  {
+    "customer_id": "CUST-045",
+    "signals": [
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.74,
+        "cusum_value": 20.94,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 38
+      },
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.92,
+        "cusum_value": 7.25,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 39
+      },
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.73,
+        "cusum_value": 10.37,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 34
+      },
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.86,
+        "cusum_value": 25.97,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 5
+      },
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.82,
+        "cusum_value": 12.02,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 13
+      },
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.81,
+        "cusum_value": 19.49,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 20
+      },
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.84,
+        "cusum_value": 8.54,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 27
+      },
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.86,
+        "cusum_value": 20.68,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 25
+      }
+    ],
+    "alarm_count": 8
+  },
+  {
+    "customer_id": "CUST-046",
+    "signals": [
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.78,
+        "cusum_value": 27.15,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 23
+      },
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.68,
+        "cusum_value": 10.38,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 20
+      },
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.65,
+        "cusum_value": 5.51,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 29
+      },
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.89,
+        "cusum_value": 22.0,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 20
+      },
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.63,
+        "cusum_value": 18.32,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 43
+      },
+      {
+        "signal_type": "txn_frequency",
+        "detected": true,
+        "confidence": 0.95,
+        "cusum_value": 9.27,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 7
+      },
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.84,
+        "cusum_value": 12.84,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 18
+      }
+    ],
+    "alarm_count": 7
+  },
+  {
+    "customer_id": "CUST-047",
+    "signals": [
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.71,
+        "cusum_value": 12.72,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 29
+      },
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.82,
+        "cusum_value": 16.87,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 25
+      },
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.84,
+        "cusum_value": 14.69,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 30
+      },
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.74,
+        "cusum_value": 12.94,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 33
+      },
+      {
+        "signal_type": "txn_frequency",
+        "detected": true,
+        "confidence": 0.66,
+        "cusum_value": 9.75,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 24
+      },
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.78,
+        "cusum_value": 10.63,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 38
+      },
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.89,
+        "cusum_value": 17.96,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 8
+      },
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.73,
+        "cusum_value": 9.48,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 1
+      }
+    ],
+    "alarm_count": 8
+  },
+  {
+    "customer_id": "CUST-048",
+    "signals": [
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.85,
+        "cusum_value": 21.81,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 9
+      },
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.95,
+        "cusum_value": 16.62,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 27
+      },
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.73,
+        "cusum_value": 16.24,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 34
+      },
+      {
+        "signal_type": "balance_change",
+        "detected": true,
+        "confidence": 0.7,
+        "cusum_value": 6.53,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 16
+      },
+      {
+        "signal_type": "txn_frequency",
+        "detected": true,
+        "confidence": 0.74,
+        "cusum_value": 21.51,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 16
+      },
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.77,
+        "cusum_value": 19.99,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 1
+      },
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.83,
+        "cusum_value": 22.97,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 23
+      },
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.87,
+        "cusum_value": 7.81,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 36
+      }
+    ],
+    "alarm_count": 8
+  },
+  {
+    "customer_id": "CUST-049",
+    "signals": [
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.88,
+        "cusum_value": 7.19,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 7
+      },
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.88,
+        "cusum_value": 24.6,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 24
+      },
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.8,
+        "cusum_value": 12.52,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 21
+      },
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.96,
+        "cusum_value": 22.0,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 2
+      },
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.68,
+        "cusum_value": 10.44,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 17
+      },
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.78,
+        "cusum_value": 26.71,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 23
+      },
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.7,
+        "cusum_value": 24.84,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 33
+      }
+    ],
+    "alarm_count": 7
+  },
+  {
+    "customer_id": "CUST-050",
+    "signals": [
+      {
+        "signal_type": "inactivity_streak",
+        "detected": true,
+        "confidence": 0.67,
+        "cusum_value": 8.94,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 9
+      },
+      {
+        "signal_type": "complaint_count",
+        "detected": true,
+        "confidence": 0.64,
+        "cusum_value": 11.95,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 31
+      },
+      {
+        "signal_type": "digital_ratio",
+        "detected": true,
+        "confidence": 0.67,
+        "cusum_value": 15.42,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 31
+      },
+      {
+        "signal_type": "txn_frequency",
+        "detected": true,
+        "confidence": 0.8,
+        "cusum_value": 11.79,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 19
+      },
+      {
+        "signal_type": "atm_withdrawals",
+        "detected": true,
+        "confidence": 0.63,
+        "cusum_value": 19.32,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 14
+      },
+      {
+        "signal_type": "salary_credits",
+        "detected": true,
+        "confidence": 0.85,
+        "cusum_value": 7.95,
+        "alarm_threshold": 5.0,
+        "method": "SPRT",
+        "days_active": 17
+      },
+      {
+        "signal_type": "app_logins",
+        "detected": true,
+        "confidence": 0.62,
+        "cusum_value": 11.09,
+        "alarm_threshold": 5.0,
+        "method": "CUSUM",
+        "days_active": 15
+      },
+      {
+        "signal_type": "channel_entropy",
+        "detected": true,
+        "confidence": 0.76,
+        "cusum_value": 23.73,
+        "alarm_threshold": 5.0,
+        "method": "SR",
+        "days_active": 21
+      }
+    ],
+    "alarm_count": 8
+  }
+]

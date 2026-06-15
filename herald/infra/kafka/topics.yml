@@ -1,0 +1,14 @@
+topics:
+  - name: pcop.action_plans.v1
+    partitions: 6
+    replication_factor: 3
+    config:
+      retention.ms: 259200000   # 3 days
+      cleanup.policy: delete
+
+  - name: pcop.dispatched.v1
+    partitions: 6
+    replication_factor: 3
+    config:
+      retention.ms: 604800000   # 7 days — Layer 6 needs full history for effectiveness measurement
+      cleanup.policy: delete

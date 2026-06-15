@@ -1,0 +1,12 @@
+# Minimum runtime deps
+pydantic>=2.0
+numpy>=1.24
+
+# Optional - only needed for STL + CUSUM
+pandas>=2.0
+statsmodels>=0.14
+
+# Production deps (only needed by services/detection/main.py)
+kafka-python>=2.0
+psycopg2-binary>=2.9
+redis>=5.0

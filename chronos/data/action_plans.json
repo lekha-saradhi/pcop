@@ -1,0 +1,350 @@
+[
+  {
+    "customer_id": "C-00000001",
+    "channel": "email",
+    "offer_code": "HNW_FEE_WAIVER_12M",
+    "offer_description": "12-month fee waiver",
+    "offer_value": "INR 25,000",
+    "timing": "within_24h",
+    "priority": 1,
+    "rationale": "P(churn 7d)=71%. Life event: job_change / relocation. HNW customer with tenure 9yr and 2 active signals (location_city, transaction_frequency). Graph network shows peer-group churn contagion risk. Conformal CI [0.74\u20130.96]. Recommend email with 12-month fee waiver before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000002",
+    "channel": "email",
+    "offer_code": "MA_FEE_WAIVER_6M",
+    "offer_description": "6-month fee waiver",
+    "offer_value": "INR 8,000",
+    "timing": "within_24h",
+    "priority": 2,
+    "rationale": "P(churn 7d)=50%. Mass Affluent customer with tenure 5yr and 1 active signals (digital_engagement). Graph network shows peer-group churn contagion risk. Conformal CI [0.62\u20130.80]. Recommend email with 6-month fee waiver before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000003",
+    "channel": "sms",
+    "offer_code": "MM_CASHBACK_3M",
+    "offer_description": "3-month cashback 2%",
+    "offer_value": "INR 2,000",
+    "timing": "within_7d",
+    "priority": 3,
+    "rationale": "Mass Market customer with tenure 12yr and pattern-based risk. Graph network shows peer-group churn contagion risk. Conformal CI [0.22\u20130.38]. Recommend sms with 3-month cashback 2% before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "proactive",
+    "urgency_horizon": null,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000004",
+    "channel": "app",
+    "offer_code": "DN_APP_REWARD",
+    "offer_description": "In-app reward points 5x",
+    "offer_value": "5x points",
+    "timing": "within_48h",
+    "priority": 3,
+    "rationale": "Digital Native customer with tenure 3yr and 1 active signals (stress_overdraft). Graph network shows peer-group churn contagion risk. Conformal CI [0.48\u20130.65]. Recommend app with In-app reward points 5x before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "proactive",
+    "urgency_horizon": "30d",
+    "tone_modifiers": [
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000005",
+    "channel": "email",
+    "offer_code": "HNW_FEE_WAIVER_12M",
+    "offer_description": "12-month fee waiver",
+    "offer_value": "INR 25,000",
+    "timing": "within_7d",
+    "priority": 3,
+    "rationale": "HNW customer with tenure 15yr and pattern-based risk. Graph network shows peer-group churn contagion risk. Conformal CI [0.06\u20130.20]. Recommend email with 12-month fee waiver before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "graceful_retention",
+    "urgency_horizon": null,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000006",
+    "channel": "rm_visit",
+    "offer_code": "HNW_FEE_WAIVER_12M",
+    "offer_description": "12-month fee waiver",
+    "offer_value": "INR 25,000",
+    "timing": "within_24h",
+    "priority": 1,
+    "rationale": "P(churn 7d)=76%. Life event: bereavement. HNW customer with tenure 20yr and 2 active signals (lifecycle_mcc, transaction_frequency). Graph network shows peer-group churn contagion risk. Conformal CI [0.77\u20130.98]. Recommend rm_visit with 12-month fee waiver before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000007",
+    "channel": "sms",
+    "offer_code": "MA_FEE_WAIVER_6M",
+    "offer_description": "6-month fee waiver",
+    "offer_value": "INR 8,000",
+    "timing": "within_24h",
+    "priority": 2,
+    "rationale": "P(churn 7d)=44%. Mass Affluent customer with tenure 8yr and 1 active signals (digital_engagement). Graph network shows peer-group churn contagion risk. Conformal CI [0.59\u20130.69]. Recommend sms with 6-month fee waiver before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000008",
+    "channel": "sms",
+    "offer_code": "MM_CASHBACK_3M",
+    "offer_description": "3-month cashback 2%",
+    "offer_value": "INR 2,000",
+    "timing": "within_7d",
+    "priority": 3,
+    "rationale": "Life event: salary_change. Mass Market customer with tenure 7yr and 1 active signals (salary_amount). Graph network shows peer-group churn contagion risk. Conformal CI [0.18\u20130.32]. Recommend sms with 3-month cashback 2% before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "proactive",
+    "urgency_horizon": null,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000009",
+    "channel": "app",
+    "offer_code": "DN_APP_REWARD",
+    "offer_description": "In-app reward points 5x",
+    "offer_value": "5x points",
+    "timing": "within_48h",
+    "priority": 3,
+    "rationale": "Digital Native customer with tenure 4yr and 1 active signals (complaint_sentiment). Graph network shows peer-group churn contagion risk. Conformal CI [0.46\u20130.55]. Recommend app with In-app reward points 5x before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "proactive",
+    "urgency_horizon": "30d",
+    "tone_modifiers": [
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000010",
+    "channel": "email",
+    "offer_code": "HNW_FEE_WAIVER_12M",
+    "offer_description": "12-month fee waiver",
+    "offer_value": "INR 25,000",
+    "timing": "within_7d",
+    "priority": 3,
+    "rationale": "HNW customer with tenure 11yr and pattern-based risk. Graph network shows peer-group churn contagion risk. Conformal CI [0.12\u20130.25]. Recommend email with 12-month fee waiver before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "graceful_retention",
+    "urgency_horizon": null,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000011",
+    "channel": "email",
+    "offer_code": "MA_FEE_WAIVER_6M",
+    "offer_description": "6-month fee waiver",
+    "offer_value": "INR 8,000",
+    "timing": "within_24h",
+    "priority": 2,
+    "rationale": "P(churn 7d)=53%. Mass Affluent customer with tenure 6yr and 1 active signals (digital_engagement). Graph network shows peer-group churn contagion risk. Conformal CI [0.65\u20130.72]. Recommend email with 6-month fee waiver before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000012",
+    "channel": "sms",
+    "offer_code": "MM_CASHBACK_3M",
+    "offer_description": "3-month cashback 2%",
+    "offer_value": "INR 2,000",
+    "timing": "within_24h",
+    "priority": 1,
+    "rationale": "P(churn 7d)=74%. Life event: job_change. Mass Market customer with tenure 9yr and 2 active signals (salary_amount, digital_engagement). Graph network shows peer-group churn contagion risk. Conformal CI [0.76\u20130.98]. Recommend sms with 3-month cashback 2% before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000013",
+    "channel": "sms",
+    "offer_code": "MA_FEE_WAIVER_6M",
+    "offer_description": "6-month fee waiver",
+    "offer_value": "INR 8,000",
+    "timing": "within_7d",
+    "priority": 3,
+    "rationale": "Life event: retirement. Mass Affluent customer with tenure 18yr and 1 active signals (salary_amount). Graph network shows peer-group churn contagion risk. Conformal CI [0.31\u20130.49]. Recommend sms with 6-month fee waiver before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "proactive",
+    "urgency_horizon": "90d",
+    "tone_modifiers": [
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000014",
+    "channel": "app",
+    "offer_code": "DN_APP_REWARD",
+    "offer_description": "In-app reward points 5x",
+    "offer_value": "5x points",
+    "timing": "within_7d",
+    "priority": 3,
+    "rationale": "Life event: relocation. Digital Native customer with tenure 5yr and 1 active signals (location_city). Graph network shows peer-group churn contagion risk. Conformal CI [0.39\u20130.55]. Recommend app with In-app reward points 5x before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "proactive",
+    "urgency_horizon": "90d",
+    "tone_modifiers": [
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000015",
+    "channel": "sms",
+    "offer_code": "MM_CASHBACK_3M",
+    "offer_description": "3-month cashback 2%",
+    "offer_value": "INR 2,000",
+    "timing": "within_48h",
+    "priority": 3,
+    "rationale": "Mass Market customer with tenure 6yr and pattern-based risk. Graph network shows peer-group churn contagion risk. Conformal CI [0.42\u20130.59]. Recommend sms with 3-month cashback 2% before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "proactive",
+    "urgency_horizon": "30d",
+    "tone_modifiers": [
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000016",
+    "channel": "email",
+    "offer_code": "MA_FEE_WAIVER_6M",
+    "offer_description": "6-month fee waiver",
+    "offer_value": "INR 8,000",
+    "timing": "within_24h",
+    "priority": 2,
+    "rationale": "P(churn 7d)=65%. Mass Affluent customer with tenure 7yr and 1 active signals (digital_engagement). Graph network shows peer-group churn contagion risk. Conformal CI [0.71\u20130.86]. Recommend email with 6-month fee waiver before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000017",
+    "channel": "email",
+    "offer_code": "HNW_FEE_WAIVER_12M",
+    "offer_description": "12-month fee waiver",
+    "offer_value": "INR 25,000",
+    "timing": "within_7d",
+    "priority": 3,
+    "rationale": "HNW customer with tenure 13yr and pattern-based risk. Graph network shows peer-group churn contagion risk. Conformal CI [0.21\u20130.37]. Recommend email with 12-month fee waiver before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "proactive",
+    "urgency_horizon": null,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000018",
+    "channel": "app",
+    "offer_code": "DN_APP_REWARD",
+    "offer_description": "In-app reward points 5x",
+    "offer_value": "5x points",
+    "timing": "within_24h",
+    "priority": 2,
+    "rationale": "P(churn 7d)=56%. Digital Native customer with tenure 4yr and 1 active signals (digital_engagement). Graph network shows peer-group churn contagion risk. Conformal CI [0.66\u20130.78]. Recommend app with In-app reward points 5x before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "full_retention",
+    "urgency_horizon": "7d",
+    "tone_modifiers": [
+      "urgent",
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000019",
+    "channel": "email",
+    "offer_code": "MA_FEE_WAIVER_6M",
+    "offer_description": "6-month fee waiver",
+    "offer_value": "INR 8,000",
+    "timing": "within_48h",
+    "priority": 2,
+    "rationale": "Life event: financial_stress. Mass Affluent customer with tenure 8yr and 1 active signals (stress_overdraft). Graph network shows peer-group churn contagion risk. Conformal CI [0.54\u20130.68]. Recommend email with 6-month fee waiver before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "graceful_retention",
+    "urgency_horizon": "30d",
+    "tone_modifiers": [
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  },
+  {
+    "customer_id": "C-00000020",
+    "channel": "app",
+    "offer_code": "DN_APP_REWARD",
+    "offer_description": "In-app reward points 5x",
+    "offer_value": "5x points",
+    "timing": "within_7d",
+    "priority": 3,
+    "rationale": "Life event: marriage. Digital Native customer with tenure 6yr and 1 active signals (lifecycle_mcc). Graph network shows peer-group churn contagion risk. Conformal CI [0.29\u20130.38]. Recommend app with In-app reward points 5x before competitor acquisition window.",
+    "suppressed": false,
+    "content_strategy": "proactive",
+    "urgency_horizon": null,
+    "tone_modifiers": [
+      "professional"
+    ],
+    "generated_at": "2026-05-27T03:25:00Z"
+  }
+]

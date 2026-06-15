@@ -1,0 +1,17 @@
+node_modules/
+.next/
+__pycache__/
+*.pyc
+.env
+.venv/
+dist/
+build/
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+chronos/ml/checkpoints/
+chronos/data/
+mlruns/
+*.db
+**/demo*.json

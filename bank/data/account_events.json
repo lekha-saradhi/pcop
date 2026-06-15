@@ -1,0 +1,517 @@
+[
+  {
+    "event_id": 1,
+    "customer_id": "C-00000001",
+    "account_id": "A-00000001",
+    "event_type": "PRODUCT_ADD",
+    "product_code": "HL-001",
+    "event_date": "2024-03-15",
+    "metadata": {
+      "product_name": "Home Loan Enquiry",
+      "amount": 5000000
+    }
+  },
+  {
+    "event_id": 2,
+    "customer_id": "C-00000001",
+    "account_id": null,
+    "event_type": "MORTGAGE_ENQUIRY",
+    "product_code": null,
+    "event_date": "2024-04-20",
+    "metadata": {
+      "branch": "Mumbai Main",
+      "enquiry_type": "top_up"
+    }
+  },
+  {
+    "event_id": 3,
+    "customer_id": "C-00000002",
+    "account_id": "A-00000010",
+    "event_type": "PRODUCT_ADD",
+    "product_code": "CC-001",
+    "event_date": "2023-08-10",
+    "metadata": {
+      "product_name": "Credit Card",
+      "credit_limit": 200000
+    }
+  },
+  {
+    "event_id": 4,
+    "customer_id": "C-00000003",
+    "account_id": "A-00000015",
+    "event_type": "WILL_SERVICE_ENQUIRY",
+    "product_code": null,
+    "event_date": "2024-01-15",
+    "metadata": {
+      "branch": "Chennai Anna Nagar",
+      "service_type": "will_creation"
+    }
+  },
+  {
+    "event_id": 5,
+    "customer_id": "C-00000004",
+    "account_id": "A-00000020",
+    "event_type": "PRODUCT_ADD",
+    "product_code": "FD-001",
+    "event_date": "2023-06-01",
+    "metadata": {
+      "product_name": "Fixed Deposit",
+      "amount": 1000000,
+      "tenure_months": 12
+    }
+  },
+  {
+    "event_id": 6,
+    "customer_id": "C-00000004",
+    "account_id": null,
+    "event_type": "MORTGAGE_ENQUIRY",
+    "product_code": null,
+    "event_date": "2024-05-10",
+    "metadata": {
+      "branch": "Hyderabad Banjara Hills",
+      "enquiry_type": "loan_against_property"
+    }
+  },
+  {
+    "event_id": 7,
+    "customer_id": "C-00000005",
+    "account_id": null,
+    "event_type": "LIFE_INSURANCE_OPEN",
+    "product_code": "LIC-TERM-001",
+    "event_date": "2023-11-20",
+    "metadata": {
+      "insurer": "LIC",
+      "policy_name": "Term Life Insurance",
+      "sum_assured": 10000000
+    }
+  },
+  {
+    "event_id": 8,
+    "customer_id": "C-00000006",
+    "account_id": null,
+    "event_type": "WILL_SERVICE_ENQUIRY",
+    "product_code": null,
+    "event_date": "2024-02-28",
+    "metadata": {
+      "branch": "Kolkata Park Street",
+      "service_type": "estate_planning"
+    }
+  },
+  {
+    "event_id": 9,
+    "customer_id": "C-00000006",
+    "account_id": null,
+    "event_type": "ACCOUNT_CLOSURE_REQUEST",
+    "product_code": null,
+    "event_date": "2024-04-15",
+    "metadata": {
+      "reason": "Estate settlement",
+      "accounts_affected": 3
+    }
+  },
+  {
+    "event_id": 10,
+    "customer_id": "C-00000007",
+    "account_id": "A-00000035",
+    "event_type": "PRODUCT_ADD",
+    "product_code": "INVEST-001",
+    "event_date": "2023-09-05",
+    "metadata": {
+      "product_name": "Mutual Fund SIP",
+      "amount": 10000,
+      "frequency": "monthly"
+    }
+  },
+  {
+    "event_id": 11,
+    "customer_id": "C-00000008",
+    "account_id": null,
+    "event_type": "MORTGAGE_ENQUIRY",
+    "product_code": null,
+    "event_date": "2024-03-01",
+    "metadata": {
+      "branch": "Kochi Main",
+      "enquiry_type": "home_loan"
+    }
+  },
+  {
+    "event_id": 12,
+    "customer_id": "C-00000009",
+    "account_id": "A-00000045",
+    "event_type": "PRODUCT_ADD",
+    "product_code": "CC-002",
+    "event_date": "2023-07-15",
+    "metadata": {
+      "product_name": "Credit Card Upgrade",
+      "credit_limit": 100000
+    }
+  },
+  {
+    "event_id": 13,
+    "customer_id": "C-00000010",
+    "account_id": "A-00000050",
+    "event_type": "JOINT_ACCOUNT_OPEN",
+    "product_code": "SAV-JOINT",
+    "event_date": "2024-01-20",
+    "metadata": {
+      "joint_holder_name": "Rahul Sharma",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "event_id": 14,
+    "customer_id": "C-00000010",
+    "account_id": null,
+    "event_type": "PRODUCT_ADD",
+    "product_code": "HL-002",
+    "event_date": "2024-02-15",
+    "metadata": {
+      "product_name": "Home Loan",
+      "amount": 8500000
+    }
+  },
+  {
+    "event_id": 15,
+    "customer_id": "C-00000011",
+    "account_id": null,
+    "event_type": "LIFE_INSURANCE_OPEN",
+    "product_code": "HDFC-TERM-001",
+    "event_date": "2023-10-01",
+    "metadata": {
+      "insurer": "HDFC Life",
+      "policy_name": "Term Life Plus",
+      "sum_assured": 15000000
+    }
+  },
+  {
+    "event_id": 16,
+    "customer_id": "C-00000012",
+    "account_id": null,
+    "event_type": "ACCOUNT_CLOSURE_REQUEST",
+    "product_id": "A-00000060",
+    "event_date": "2024-06-01",
+    "metadata": {
+      "reason": "Relocating to another city",
+      "account_type": "savings"
+    }
+  },
+  {
+    "event_id": 17,
+    "customer_id": "C-00000013",
+    "account_id": null,
+    "event_type": "WILL_SERVICE_ENQUIRY",
+    "product_code": null,
+    "event_date": "2024-01-10",
+    "metadata": {
+      "branch": "Bangalore Civil Lines",
+      "service_type": "will_registration"
+    }
+  },
+  {
+    "event_id": 18,
+    "customer_id": "C-00000013",
+    "account_id": null,
+    "event_type": "LIFE_INSURANCE_OPEN",
+    "product_code": "SBI-RETIRE-001",
+    "event_date": "2023-12-01",
+    "metadata": {
+      "insurer": "SBI Life",
+      "policy_name": "Retirement Pension",
+      "amount": 500000
+    }
+  },
+  {
+    "event_id": 19,
+    "customer_id": "C-00000014",
+    "account_id": null,
+    "event_type": "MORTGAGE_ENQUIRY",
+    "product_code": null,
+    "event_date": "2024-05-25",
+    "metadata": {
+      "branch": "Hyderabad Kondapur",
+      "enquiry_type": "loan_enquiry",
+      "property_value": 8000000
+    }
+  },
+  {
+    "event_id": 20,
+    "customer_id": "C-00000015",
+    "account_id": "A-00000075",
+    "event_type": "PRODUCT_ADD",
+    "product_code": "BL-001",
+    "event_date": "2023-08-20",
+    "metadata": {
+      "product_name": "Business Loan",
+      "amount": 2000000,
+      "purpose": "Equipment Purchase"
+    }
+  },
+  {
+    "event_id": 21,
+    "customer_id": "C-00000016",
+    "account_id": "A-00000080",
+    "event_type": "PRODUCT_ADD",
+    "product_code": "MF-001",
+    "event_date": "2023-05-15",
+    "metadata": {
+      "product_name": "Equity Mutual Fund",
+      "amount": 500000
+    }
+  },
+  {
+    "event_id": 22,
+    "customer_id": "C-00000016",
+    "account_id": null,
+    "event_type": "MORTGAGE_ENQUIRY",
+    "product_code": null,
+    "event_date": "2024-04-10",
+    "metadata": {
+      "branch": "Delhi Ring Road",
+      "enquiry_type": "home_loan_balance_transfer"
+    }
+  },
+  {
+    "event_id": 23,
+    "customer_id": "C-00000017",
+    "account_id": null,
+    "event_type": "WILL_SERVICE_ENQUIRY",
+    "product_code": null,
+    "event_date": "2023-11-01",
+    "metadata": {
+      "branch": "Chennai Dharampeth",
+      "service_type": "probate_enquiry"
+    }
+  },
+  {
+    "event_id": 24,
+    "customer_id": "C-00000017",
+    "account_id": "A-00000085",
+    "event_type": "PRODUCT_ADD",
+    "product_code": "FD-002",
+    "event_date": "2023-09-15",
+    "metadata": {
+      "product_name": "Tax Saver FD",
+      "amount": 150000,
+      "tenure_months": 60
+    }
+  },
+  {
+    "event_id": 25,
+    "customer_id": "C-00000018",
+    "account_id": "A-00000090",
+    "event_type": "JOINT_ACCOUNT_OPEN",
+    "product_code": "SAV-JOINT-002",
+    "event_date": "2024-03-20",
+    "metadata": {
+      "joint_holder_name": "Arun Pillai",
+      "relationship": "Partner"
+    }
+  },
+  {
+    "event_id": 26,
+    "customer_id": "C-00000018",
+    "account_id": null,
+    "event_type": "PRODUCT_ADD",
+    "product_code": "CC-003",
+    "event_date": "2024-04-01",
+    "metadata": {
+      "product_name": "Premium Credit Card",
+      "credit_limit": 500000
+    }
+  },
+  {
+    "event_id": 27,
+    "customer_id": "C-00000019",
+    "account_id": null,
+    "event_type": "MORTGAGE_ENQUIRY",
+    "product_code": null,
+    "event_date": "2024-02-01",
+    "metadata": {
+      "branch": "Varanasi Lanka",
+      "enquiry_type": "education_loan"
+    }
+  },
+  {
+    "event_id": 28,
+    "customer_id": "C-00000020",
+    "account_id": "A-00000095",
+    "event_type": "PRODUCT_ADD",
+    "product_code": "HL-003",
+    "event_date": "2024-01-15",
+    "metadata": {
+      "product_name": "Home Loan",
+      "amount": 6000000,
+      "purpose": "Purchase"
+    }
+  },
+  {
+    "event_id": 29,
+    "customer_id": "C-00000020",
+    "account_id": null,
+    "event_type": "LIFE_INSURANCE_OPEN",
+    "product_code": "MAX-TERM-001",
+    "event_date": "2024-02-01",
+    "metadata": {
+      "insurer": "Max Life",
+      "policy_name": "Term Life with Accident",
+      "sum_assured": 5000000
+    }
+  },
+  {
+    "event_id": 30,
+    "customer_id": "C-00000001",
+    "account_id": null,
+    "event_type": "WILL_SERVICE_ENQUIRY",
+    "product_code": null,
+    "event_date": "2024-05-20",
+    "metadata": {
+      "branch": "Mumbai Marine Drive",
+      "service_type": "nominee_update"
+    }
+  },
+  {
+    "event_id": 31,
+    "customer_id": "C-00000004",
+    "account_id": "A-00000021",
+    "event_type": "JOINT_ACCOUNT_OPEN",
+    "product_code": "SAV-JOINT-003",
+    "event_date": "2023-12-01",
+    "metadata": {
+      "joint_holder_name": "Karthik Krishnan",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "event_id": 32,
+    "customer_id": "C-00000006",
+    "account_id": "A-00000030",
+    "event_type": "PRODUCT_ADD",
+    "product_code": "FD-003",
+    "event_date": "2022-06-15",
+    "metadata": {
+      "product_name": "Senior Citizen FD",
+      "amount": 5000000,
+      "tenure_months": 24
+    }
+  },
+  {
+    "event_id": 33,
+    "customer_id": "C-00000009",
+    "account_id": null,
+    "event_type": "LIFE_INSURANCE_OPEN",
+    "product_code": "ICICI-TERM-001",
+    "event_date": "2023-04-15",
+    "metadata": {
+      "insurer": "ICICI Prudential",
+      "policy_name": "Term Life",
+      "sum_assured": 5000000
+    }
+  },
+  {
+    "event_id": 34,
+    "customer_id": "C-00000011",
+    "account_id": null,
+    "event_type": "MORTGAGE_ENQUIRY",
+    "product_code": null,
+    "event_date": "2024-03-15",
+    "metadata": {
+      "branch": "Pune Main",
+      "enquiry_type": "top_up_loan"
+    }
+  },
+  {
+    "event_id": 35,
+    "customer_id": "C-00000012",
+    "account_id": "A-00000061",
+    "event_type": "PRODUCT_ADD",
+    "product_code": "SAV-001",
+    "event_date": "2023-01-10",
+    "metadata": {
+      "product_name": "Premium Savings",
+      "balance": 250000
+    }
+  },
+  {
+    "event_id": 36,
+    "customer_id": "C-00000014",
+    "account_id": null,
+    "event_type": "ACCOUNT_CLOSURE_REQUEST",
+    "product_id": "A-00000070",
+    "event_date": "2024-06-10",
+    "metadata": {
+      "reason": "Relocating to Pune",
+      "account_type": "savings"
+    }
+  },
+  {
+    "event_id": 37,
+    "customer_id": "C-00000015",
+    "account_id": null,
+    "event_type": "WILL_SERVICE_ENQUIRY",
+    "product_code": null,
+    "event_date": "2024-04-05",
+    "metadata": {
+      "branch": "Indore Vijay Nagar",
+      "service_type": "gift_deed"
+    }
+  },
+  {
+    "event_id": 38,
+    "customer_id": "C-00000016",
+    "account_id": null,
+    "event_type": "LIFE_INSURANCE_OPEN",
+    "product_code": "TATA-AIA-001",
+    "event_date": "2024-01-01",
+    "metadata": {
+      "insurer": "TATA AIA",
+      "policy_name": "Smart Income",
+      "amount": 2000000
+    }
+  },
+  {
+    "event_id": 39,
+    "customer_id": "C-00000019",
+    "account_id": null,
+    "event_type": "PRODUCT_ADD",
+    "product_code": "CC-004",
+    "event_date": "2023-06-20",
+    "metadata": {
+      "product_name": "Credit Card",
+      "credit_limit": 75000
+    }
+  },
+  {
+    "event_id": 40,
+    "customer_id": "C-00000020",
+    "account_id": null,
+    "event_type": "MORTGAGE_ENQUIRY",
+    "product_code": null,
+    "event_date": "2024-03-10",
+    "metadata": {
+      "branch": "Nashik Gangapur Road",
+      "enquiry_type": "balance_transfer"
+    }
+  },
+  {
+    "event_id": "AE-C-00000023-001",
+    "customer_id": "C-00000023",
+    "event_type": "account_opened",
+    "product_code": "SAV001",
+    "event_date": "2026-05-29",
+    "metadata": {
+      "account_type": "savings",
+      "product_name": "Smart Savings Account"
+    }
+  },
+  {
+    "event_id": "AE-C-00000024-001",
+    "customer_id": "C-00000024",
+    "event_type": "account_opened",
+    "product_code": "SAV001",
+    "event_date": "2026-05-29",
+    "metadata": {
+      "account_type": "savings",
+      "product_name": "Smart Savings Account"
+    }
+  }
+]

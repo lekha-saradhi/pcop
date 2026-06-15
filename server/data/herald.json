@@ -1,0 +1,884 @@
+﻿[
+  {
+    "customer_id": "CUST-009",
+    "risk_tier": "MONITOR",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Hi Aditya,\n\nWe appreciate your loyalty to PCOP. As a thank-you, you've been selected for our Engagement Reward programme.\n\nLog in to the PCOP app or visit pcop.app to claim your benefit.\n\nThanks,\nPCOP Team",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 38
+    },
+    "sms": {
+      "body": "Hi Aditya! Your Engagement Reward is ready on the PCOP app. Tap to claim. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 106
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Engagement Reward from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-010",
+    "risk_tier": "MONITOR",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Hi Meera,\n\nWe appreciate your loyalty to PCOP. As a thank-you, you've been selected for our Engagement Reward programme.\n\nLog in to the PCOP app or visit pcop.app to claim your benefit.\n\nThanks,\nPCOP Team",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 38
+    },
+    "sms": {
+      "body": "Hi Meera! Your Engagement Reward is ready on the PCOP app. Tap to claim. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 105
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Engagement Reward from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-011",
+    "risk_tier": "MONITOR",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Hi Suresh,\n\nWe appreciate your loyalty to PCOP. As a thank-you, you've been selected for our Engagement Reward programme.\n\nLog in to the PCOP app or visit pcop.app to claim your benefit.\n\nThanks,\nPCOP Team",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 38
+    },
+    "sms": {
+      "body": "Hi Suresh! Your Engagement Reward is ready on the PCOP app. Tap to claim. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 106
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Engagement Reward from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-012",
+    "risk_tier": "MONITOR",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Hi Divya,\n\nWe appreciate your loyalty to PCOP. As a thank-you, you've been selected for our Engagement Reward programme.\n\nLog in to the PCOP app or visit pcop.app to claim your benefit.\n\nThanks,\nPCOP Team",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 38
+    },
+    "sms": {
+      "body": "Hi Divya! Your Engagement Reward is ready on the PCOP app. Tap to claim. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 105
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Engagement Reward from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-013",
+    "risk_tier": "MONITOR",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Hi Nikhil,\n\nWe appreciate your loyalty to PCOP. As a thank-you, you've been selected for our Engagement Reward programme.\n\nLog in to the PCOP app or visit pcop.app to claim your benefit.\n\nThanks,\nPCOP Team",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 38
+    },
+    "sms": {
+      "body": "Hi Nikhil! Your Engagement Reward is ready on the PCOP app. Tap to claim. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 106
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Engagement Reward from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-014",
+    "risk_tier": "MONITOR",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Hi Pooja,\n\nWe appreciate your loyalty to PCOP. As a thank-you, you've been selected for our Engagement Reward programme.\n\nLog in to the PCOP app or visit pcop.app to claim your benefit.\n\nThanks,\nPCOP Team",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 38
+    },
+    "sms": {
+      "body": "Hi Pooja! Your Engagement Reward is ready on the PCOP app. Tap to claim. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 105
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Engagement Reward from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-015",
+    "risk_tier": "MONITOR",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Hi Amit,\n\nWe appreciate your loyalty to PCOP. As a thank-you, you've been selected for our Engagement Reward programme.\n\nLog in to the PCOP app or visit pcop.app to claim your benefit.\n\nThanks,\nPCOP Team",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 38
+    },
+    "sms": {
+      "body": "Hi Amit! Your Engagement Reward is ready on the PCOP app. Tap to claim. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 104
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Engagement Reward from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-016",
+    "risk_tier": "MONITOR",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Hi Shreya,\n\nWe appreciate your loyalty to PCOP. As a thank-you, you've been selected for our Engagement Reward programme.\n\nLog in to the PCOP app or visit pcop.app to claim your benefit.\n\nThanks,\nPCOP Team",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 38
+    },
+    "sms": {
+      "body": "Hi Shreya! Your Engagement Reward is ready on the PCOP app. Tap to claim. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 106
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Engagement Reward from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-017",
+    "risk_tier": "MONITOR",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Hi Rajesh,\n\nWe appreciate your loyalty to PCOP. As a thank-you, you've been selected for our Engagement Reward programme.\n\nLog in to the PCOP app or visit pcop.app to claim your benefit.\n\nThanks,\nPCOP Team",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 38
+    },
+    "sms": {
+      "body": "Hi Rajesh! Your Engagement Reward is ready on the PCOP app. Tap to claim. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 106
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Engagement Reward from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-018",
+    "risk_tier": "MONITOR",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Hi Neha,\n\nWe appreciate your loyalty to PCOP. As a thank-you, you've been selected for our Engagement Reward programme.\n\nLog in to the PCOP app or visit pcop.app to claim your benefit.\n\nThanks,\nPCOP Team",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 38
+    },
+    "sms": {
+      "body": "Hi Neha! Your Engagement Reward is ready on the PCOP app. Tap to claim. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 104
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Engagement Reward from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-019",
+    "risk_tier": "MONITOR",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Hi Kiran,\n\nWe appreciate your loyalty to PCOP. As a thank-you, you've been selected for our Engagement Reward programme.\n\nLog in to the PCOP app or visit pcop.app to claim your benefit.\n\nThanks,\nPCOP Team",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 38
+    },
+    "sms": {
+      "body": "Hi Kiran! Your Engagement Reward is ready on the PCOP app. Tap to claim. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 105
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Engagement Reward from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-020",
+    "risk_tier": "MONITOR",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Hi Swati,\n\nWe appreciate your loyalty to PCOP. As a thank-you, you've been selected for our Engagement Reward programme.\n\nLog in to the PCOP app or visit pcop.app to claim your benefit.\n\nThanks,\nPCOP Team",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 38
+    },
+    "sms": {
+      "body": "Hi Swati! Your Engagement Reward is ready on the PCOP app. Tap to claim. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 105
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Engagement Reward from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-021",
+    "risk_tier": "STANDARD",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Dear Varun,\n\nThank you for being a PCOP customer. We've been reviewing our portfolio and noticed an opportunity to add more value to your banking experience.\n\nBased on your profile, you're eligible for a Product Upgrade. To know more, please visit your nearest branch or call 1800-XXX-XXXX.\n\nRegards,\nVikram Joshi\nPCOP Customer Relations",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 55
+    },
+    "sms": {
+      "body": "PCOP: Varun, you're eligible for a Product Upgrade. Login to app or visit branch. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 110
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Product Upgrade from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-022",
+    "risk_tier": "STANDARD",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Dear Anjali,\n\nThank you for being a PCOP customer. We've been reviewing our portfolio and noticed an opportunity to add more value to your banking experience.\n\nBased on your profile, you're eligible for a Product Upgrade. To know more, please visit your nearest branch or call 1800-XXX-XXXX.\n\nRegards,\nAnand Pillai\nPCOP Customer Relations",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 55
+    },
+    "sms": {
+      "body": "PCOP: Anjali, you're eligible for a Product Upgrade. Login to app or visit branch. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 111
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Product Upgrade from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-023",
+    "risk_tier": "STANDARD",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Dear Sanjay,\n\nThank you for being a PCOP customer. We've been reviewing our portfolio and noticed an opportunity to add more value to your banking experience.\n\nBased on your profile, you're eligible for a Product Upgrade. To know more, please visit your nearest branch or call 1800-XXX-XXXX.\n\nRegards,\nPriya Menon\nPCOP Customer Relations",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 55
+    },
+    "sms": {
+      "body": "PCOP: Sanjay, you're eligible for a Product Upgrade. Login to app or visit branch. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 111
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Product Upgrade from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-024",
+    "risk_tier": "STANDARD",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Dear Ritu,\n\nThank you for being a PCOP customer. We've been reviewing our portfolio and noticed an opportunity to add more value to your banking experience.\n\nBased on your profile, you're eligible for a Product Upgrade. To know more, please visit your nearest branch or call 1800-XXX-XXXX.\n\nRegards,\nSunita Nair\nPCOP Customer Relations",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 55
+    },
+    "sms": {
+      "body": "PCOP: Ritu, you're eligible for a Product Upgrade. Login to app or visit branch. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 109
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Product Upgrade from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-025",
+    "risk_tier": "STANDARD",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Dear Deepak,\n\nThank you for being a PCOP customer. We've been reviewing our portfolio and noticed an opportunity to add more value to your banking experience.\n\nBased on your profile, you're eligible for a Product Upgrade. To know more, please visit your nearest branch or call 1800-XXX-XXXX.\n\nRegards,\nAditya Sharma\nPCOP Customer Relations",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 55
+    },
+    "sms": {
+      "body": "PCOP: Deepak, you're eligible for a Product Upgrade. Login to app or visit branch. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 111
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Product Upgrade from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-026",
+    "risk_tier": "STANDARD",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Dear Nisha,\n\nThank you for being a PCOP customer. We've been reviewing our portfolio and noticed an opportunity to add more value to your banking experience.\n\nBased on your profile, you're eligible for a Product Upgrade. To know more, please visit your nearest branch or call 1800-XXX-XXXX.\n\nRegards,\nDeepa Krishnan\nPCOP Customer Relations",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 55
+    },
+    "sms": {
+      "body": "PCOP: Nisha, you're eligible for a Product Upgrade. Login to app or visit branch. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 110
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Product Upgrade from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-027",
+    "risk_tier": "STANDARD",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Dear Prakash,\n\nThank you for being a PCOP customer. We've been reviewing our portfolio and noticed an opportunity to add more value to your banking experience.\n\nBased on your profile, you're eligible for a Product Upgrade. To know more, please visit your nearest branch or call 1800-XXX-XXXX.\n\nRegards,\nVikram Joshi\nPCOP Customer Relations",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 55
+    },
+    "sms": {
+      "body": "PCOP: Prakash, you're eligible for a Product Upgrade. Login to app or visit branch. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 112
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Product Upgrade from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-028",
+    "risk_tier": "STANDARD",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Dear Simran,\n\nThank you for being a PCOP customer. We've been reviewing our portfolio and noticed an opportunity to add more value to your banking experience.\n\nBased on your profile, you're eligible for a Product Upgrade. To know more, please visit your nearest branch or call 1800-XXX-XXXX.\n\nRegards,\nSunita Nair\nPCOP Customer Relations",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 55
+    },
+    "sms": {
+      "body": "PCOP: Simran, you're eligible for a Product Upgrade. Login to app or visit branch. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 111
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Product Upgrade from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-029",
+    "risk_tier": "STANDARD",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Dear Vijay,\n\nThank you for being a PCOP customer. We've been reviewing our portfolio and noticed an opportunity to add more value to your banking experience.\n\nBased on your profile, you're eligible for a Product Upgrade. To know more, please visit your nearest branch or call 1800-XXX-XXXX.\n\nRegards,\nRitu Malhotra\nPCOP Customer Relations",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 55
+    },
+    "sms": {
+      "body": "PCOP: Vijay, you're eligible for a Product Upgrade. Login to app or visit branch. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 110
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Product Upgrade from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-030",
+    "risk_tier": "STANDARD",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Dear Aarti,\n\nThank you for being a PCOP customer. We've been reviewing our portfolio and noticed an opportunity to add more value to your banking experience.\n\nBased on your profile, you're eligible for a Product Upgrade. To know more, please visit your nearest branch or call 1800-XXX-XXXX.\n\nRegards,\nAnand Pillai\nPCOP Customer Relations",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 55
+    },
+    "sms": {
+      "body": "PCOP: Aarti, you're eligible for a Product Upgrade. Login to app or visit branch. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 110
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Product Upgrade from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-031",
+    "risk_tier": "STANDARD",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Dear Manish,\n\nThank you for being a PCOP customer. We've been reviewing our portfolio and noticed an opportunity to add more value to your banking experience.\n\nBased on your profile, you're eligible for a Product Upgrade. To know more, please visit your nearest branch or call 1800-XXX-XXXX.\n\nRegards,\nRohit Kapoor\nPCOP Customer Relations",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 55
+    },
+    "sms": {
+      "body": "PCOP: Manish, you're eligible for a Product Upgrade. Login to app or visit branch. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 111
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Product Upgrade from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-032",
+    "risk_tier": "STANDARD",
+    "email": {
+      "subject": "An offer for you from PCOP",
+      "body": "Dear Pallavi,\n\nThank you for being a PCOP customer. We've been reviewing our portfolio and noticed an opportunity to add more value to your banking experience.\n\nBased on your profile, you're eligible for a Product Upgrade. To know more, please visit your nearest branch or call 1800-XXX-XXXX.\n\nRegards,\nDeepa Krishnan\nPCOP Customer Relations",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 55
+    },
+    "sms": {
+      "body": "PCOP: Pallavi, you're eligible for a Product Upgrade. Login to app or visit branch. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 112
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Product Upgrade from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-033",
+    "risk_tier": "ESCALATE",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Sunil,\n\nI hope you're well. Your relationship with PCOP means a great deal to us, and I noticed some recent changes in your account that I'd like to discuss.\n\nI've taken the liberty of arranging a Fee Waiver as a token of our appreciation for your continued trust in us. This has been applied to your account automatically.\n\nPlease don't hesitate to call me at 1800-XXX-XXXX or simply reply to this email.\n\nBest regards,\nDeepa Krishnan\nRelationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 82
+    },
+    "sms": {
+      "body": "Hi Sunil! Your Fee Waiver from PCOP is live. No action needed. Questions? Call 1800-XXX-XXXX. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 126
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Fee Waiver from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-034",
+    "risk_tier": "ESCALATE",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Komal,\n\nI hope you're well. Your relationship with PCOP means a great deal to us, and I noticed some recent changes in your account that I'd like to discuss.\n\nI've taken the liberty of arranging a Fee Waiver as a token of our appreciation for your continued trust in us. This has been applied to your account automatically.\n\nPlease don't hesitate to call me at 1800-XXX-XXXX or simply reply to this email.\n\nBest regards,\nAditya Sharma\nRelationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 82
+    },
+    "sms": {
+      "body": "Hi Komal! Your Fee Waiver from PCOP is live. No action needed. Questions? Call 1800-XXX-XXXX. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 126
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Fee Waiver from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-035",
+    "risk_tier": "ESCALATE",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Ashish,\n\nI hope you're well. Your relationship with PCOP means a great deal to us, and I noticed some recent changes in your account that I'd like to discuss.\n\nI've taken the liberty of arranging a Fee Waiver as a token of our appreciation for your continued trust in us. This has been applied to your account automatically.\n\nPlease don't hesitate to call me at 1800-XXX-XXXX or simply reply to this email.\n\nBest regards,\nSunita Nair\nRelationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 82
+    },
+    "sms": {
+      "body": "Hi Ashish! Your Fee Waiver from PCOP is live. No action needed. Questions? Call 1800-XXX-XXXX. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 127
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Fee Waiver from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-036",
+    "risk_tier": "ESCALATE",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Tanvi,\n\nI hope you're well. Your relationship with PCOP means a great deal to us, and I noticed some recent changes in your account that I'd like to discuss.\n\nI've taken the liberty of arranging a Fee Waiver as a token of our appreciation for your continued trust in us. This has been applied to your account automatically.\n\nPlease don't hesitate to call me at 1800-XXX-XXXX or simply reply to this email.\n\nBest regards,\nRitu Malhotra\nRelationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 82
+    },
+    "sms": {
+      "body": "Hi Tanvi! Your Fee Waiver from PCOP is live. No action needed. Questions? Call 1800-XXX-XXXX. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 126
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Fee Waiver from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-037",
+    "risk_tier": "ESCALATE",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Ravi,\n\nI hope you're well. Your relationship with PCOP means a great deal to us, and I noticed some recent changes in your account that I'd like to discuss.\n\nI've taken the liberty of arranging a Fee Waiver as a token of our appreciation for your continued trust in us. This has been applied to your account automatically.\n\nPlease don't hesitate to call me at 1800-XXX-XXXX or simply reply to this email.\n\nBest regards,\nDeepa Krishnan\nRelationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 82
+    },
+    "sms": {
+      "body": "Hi Ravi! Your Fee Waiver from PCOP is live. No action needed. Questions? Call 1800-XXX-XXXX. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 125
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Fee Waiver from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-038",
+    "risk_tier": "ESCALATE",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Shweta,\n\nI hope you're well. Your relationship with PCOP means a great deal to us, and I noticed some recent changes in your account that I'd like to discuss.\n\nI've taken the liberty of arranging a Fee Waiver as a token of our appreciation for your continued trust in us. This has been applied to your account automatically.\n\nPlease don't hesitate to call me at 1800-XXX-XXXX or simply reply to this email.\n\nBest regards,\nAditya Sharma\nRelationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 82
+    },
+    "sms": {
+      "body": "Hi Shweta! Your Fee Waiver from PCOP is live. No action needed. Questions? Call 1800-XXX-XXXX. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 127
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Fee Waiver from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-039",
+    "risk_tier": "ESCALATE",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Manoj,\n\nI hope you're well. Your relationship with PCOP means a great deal to us, and I noticed some recent changes in your account that I'd like to discuss.\n\nI've taken the liberty of arranging a Fee Waiver as a token of our appreciation for your continued trust in us. This has been applied to your account automatically.\n\nPlease don't hesitate to call me at 1800-XXX-XXXX or simply reply to this email.\n\nBest regards,\nRohit Kapoor\nRelationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 82
+    },
+    "sms": {
+      "body": "Hi Manoj! Your Fee Waiver from PCOP is live. No action needed. Questions? Call 1800-XXX-XXXX. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 126
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Fee Waiver from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-040",
+    "risk_tier": "ESCALATE",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Preeti,\n\nI hope you're well. Your relationship with PCOP means a great deal to us, and I noticed some recent changes in your account that I'd like to discuss.\n\nI've taken the liberty of arranging a Fee Waiver as a token of our appreciation for your continued trust in us. This has been applied to your account automatically.\n\nPlease don't hesitate to call me at 1800-XXX-XXXX or simply reply to this email.\n\nBest regards,\nSunita Nair\nRelationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 82
+    },
+    "sms": {
+      "body": "Hi Preeti! Your Fee Waiver from PCOP is live. No action needed. Questions? Call 1800-XXX-XXXX. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 127
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Fee Waiver from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-041",
+    "risk_tier": "ESCALATE",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Gaurav,\n\nI hope you're well. Your relationship with PCOP means a great deal to us, and I noticed some recent changes in your account that I'd like to discuss.\n\nI've taken the liberty of arranging a Fee Waiver as a token of our appreciation for your continued trust in us. This has been applied to your account automatically.\n\nPlease don't hesitate to call me at 1800-XXX-XXXX or simply reply to this email.\n\nBest regards,\nAnand Pillai\nRelationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 82
+    },
+    "sms": {
+      "body": "Hi Gaurav! Your Fee Waiver from PCOP is live. No action needed. Questions? Call 1800-XXX-XXXX. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 127
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Fee Waiver from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-042",
+    "risk_tier": "ESCALATE",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Rekha,\n\nI hope you're well. Your relationship with PCOP means a great deal to us, and I noticed some recent changes in your account that I'd like to discuss.\n\nI've taken the liberty of arranging a Fee Waiver as a token of our appreciation for your continued trust in us. This has been applied to your account automatically.\n\nPlease don't hesitate to call me at 1800-XXX-XXXX or simply reply to this email.\n\nBest regards,\nDeepa Krishnan\nRelationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 82
+    },
+    "sms": {
+      "body": "Hi Rekha! Your Fee Waiver from PCOP is live. No action needed. Questions? Call 1800-XXX-XXXX. Reply STOP to unsubscribe.",
+      "compliance_status": "PASSED",
+      "char_count": 126
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Fee Waiver from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-043",
+    "risk_tier": "PRIORITY",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Pankaj,\n\nI wanted to reach out personally as your Relationship Manager at PCOP. I've noticed some changes in your account over the past few weeks and would love the opportunity to speak with you directly.\n\nAs a valued customer, I've arranged a Retention Offer for your account â€” no paperwork needed on your end. I'd also love to understand if there's anything we can do better.\n\nCould we find 15 minutes this week? My direct line is 1800-XXX-XXXX.\n\nWarm regards,\nVikram Joshi\nSenior Relationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 89
+    },
+    "sms": {
+      "body": "PCOP: Pankaj, your RM Vikram Joshi will call you today regarding your account. Ref: CUST-043. Call 1800-XXX-XXXX. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 142
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Retention Offer from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-044",
+    "risk_tier": "PRIORITY",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Sunita,\n\nI wanted to reach out personally as your Relationship Manager at PCOP. I've noticed some changes in your account over the past few weeks and would love the opportunity to speak with you directly.\n\nAs a valued customer, I've arranged a Retention Offer for your account â€” no paperwork needed on your end. I'd also love to understand if there's anything we can do better.\n\nCould we find 15 minutes this week? My direct line is 1800-XXX-XXXX.\n\nWarm regards,\nRohit Kapoor\nSenior Relationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 89
+    },
+    "sms": {
+      "body": "PCOP: Sunita, your RM Rohit Kapoor will call you today regarding your account. Ref: CUST-044. Call 1800-XXX-XXXX. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 142
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Retention Offer from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-045",
+    "risk_tier": "PRIORITY",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Sachin,\n\nI wanted to reach out personally as your Relationship Manager at PCOP. I've noticed some changes in your account over the past few weeks and would love the opportunity to speak with you directly.\n\nAs a valued customer, I've arranged a Retention Offer for your account â€” no paperwork needed on your end. I'd also love to understand if there's anything we can do better.\n\nCould we find 15 minutes this week? My direct line is 1800-XXX-XXXX.\n\nWarm regards,\nVikram Joshi\nSenior Relationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 89
+    },
+    "sms": {
+      "body": "PCOP: Sachin, your RM Vikram Joshi will call you today regarding your account. Ref: CUST-045. Call 1800-XXX-XXXX. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 142
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Retention Offer from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-046",
+    "risk_tier": "PRIORITY",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Geeta,\n\nI wanted to reach out personally as your Relationship Manager at PCOP. I've noticed some changes in your account over the past few weeks and would love the opportunity to speak with you directly.\n\nAs a valued customer, I've arranged a Retention Offer for your account â€” no paperwork needed on your end. I'd also love to understand if there's anything we can do better.\n\nCould we find 15 minutes this week? My direct line is 1800-XXX-XXXX.\n\nWarm regards,\nSunita Nair\nSenior Relationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 89
+    },
+    "sms": {
+      "body": "PCOP: Geeta, your RM Sunita Nair will call you today regarding your account. Ref: CUST-046. Call 1800-XXX-XXXX. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 140
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Retention Offer from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-047",
+    "risk_tier": "PRIORITY",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Vivek,\n\nI wanted to reach out personally as your Relationship Manager at PCOP. I've noticed some changes in your account over the past few weeks and would love the opportunity to speak with you directly.\n\nAs a valued customer, I've arranged a Retention Offer for your account â€” no paperwork needed on your end. I'd also love to understand if there's anything we can do better.\n\nCould we find 15 minutes this week? My direct line is 1800-XXX-XXXX.\n\nWarm regards,\nSunita Nair\nSenior Relationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 89
+    },
+    "sms": {
+      "body": "PCOP: Vivek, your RM Sunita Nair will call you today regarding your account. Ref: CUST-047. Call 1800-XXX-XXXX. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 140
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Retention Offer from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-048",
+    "risk_tier": "PRIORITY",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Madhu,\n\nI wanted to reach out personally as your Relationship Manager at PCOP. I've noticed some changes in your account over the past few weeks and would love the opportunity to speak with you directly.\n\nAs a valued customer, I've arranged a Retention Offer for your account â€” no paperwork needed on your end. I'd also love to understand if there's anything we can do better.\n\nCould we find 15 minutes this week? My direct line is 1800-XXX-XXXX.\n\nWarm regards,\nRohit Kapoor\nSenior Relationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 89
+    },
+    "sms": {
+      "body": "PCOP: Madhu, your RM Rohit Kapoor will call you today regarding your account. Ref: CUST-048. Call 1800-XXX-XXXX. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 141
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Retention Offer from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-049",
+    "risk_tier": "PRIORITY",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Naveen,\n\nI wanted to reach out personally as your Relationship Manager at PCOP. I've noticed some changes in your account over the past few weeks and would love the opportunity to speak with you directly.\n\nAs a valued customer, I've arranged a Retention Offer for your account â€” no paperwork needed on your end. I'd also love to understand if there's anything we can do better.\n\nCould we find 15 minutes this week? My direct line is 1800-XXX-XXXX.\n\nWarm regards,\nAditya Sharma\nSenior Relationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 89
+    },
+    "sms": {
+      "body": "PCOP: Naveen, your RM Aditya Sharma will call you today regarding your account. Ref: CUST-049. Call 1800-XXX-XXXX. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 143
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Retention Offer from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  },
+  {
+    "customer_id": "CUST-050",
+    "risk_tier": "PRIORITY",
+    "email": {
+      "subject": "A personal note from your Relationship Manager",
+      "body": "Dear Leela,\n\nI wanted to reach out personally as your Relationship Manager at PCOP. I've noticed some changes in your account over the past few weeks and would love the opportunity to speak with you directly.\n\nAs a valued customer, I've arranged a Retention Offer for your account â€” no paperwork needed on your end. I'd also love to understand if there's anything we can do better.\n\nCould we find 15 minutes this week? My direct line is 1800-XXX-XXXX.\n\nWarm regards,\nRitu Malhotra\nSenior Relationship Manager, PCOP",
+      "compliance_status": "PASSED",
+      "variant": "A",
+      "word_count": 89
+    },
+    "sms": {
+      "body": "PCOP: Leela, your RM Ritu Malhotra will call you today regarding your account. Ref: CUST-050. Call 1800-XXX-XXXX. Reply STOP to opt out.",
+      "compliance_status": "PASSED",
+      "char_count": 142
+    },
+    "push": {
+      "title": "PCOP",
+      "body": "Your Retention Offer from PCOP is ready. Tap to view.",
+      "compliance_status": "PASSED"
+    }
+  }
+]

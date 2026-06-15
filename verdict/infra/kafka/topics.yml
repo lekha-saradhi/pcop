@@ -1,0 +1,21 @@
+topics:
+  - name: pcop.interactions.v1
+    partitions: 6
+    replication_factor: 3
+    config:
+      retention.ms: 604800000   # 7 days
+      cleanup.policy: delete
+
+  - name: pcop.model_signals.v1
+    partitions: 2
+    replication_factor: 3
+    config:
+      retention.ms: 2592000000  # 30 days — Layer 7 RETRAIN needs full month
+      cleanup.policy: delete
+
+  - name: pcop.insights.v1
+    partitions: 2
+    replication_factor: 3
+    config:
+      retention.ms: 2592000000  # 30 days — analyst dashboard retention
+      cleanup.policy: delete

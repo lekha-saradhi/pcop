@@ -1,0 +1,26 @@
+txn_id,customer_id,txn_date,amount,direction,mcc_code,mcc_description,merchant_name,merchant_city,channel,is_international,txn_timestamp
+TXN-0000001,C-00000001,2024-11-18,4500.00,debit,5411,Supermarket,Big Bazaar,Bangalore,card,0,2024-11-18T18:30:00Z
+TXN-0000002,C-00000001,2024-11-15,12000.00,debit,5812,Restaurant,Taj Restaurant,Bangalore,card,0,2024-11-15T20:15:00Z
+TXN-0000003,C-00000001,2024-10-20,8500.00,debit,5722,Electronics,Croma,Mumbai,card,0,2024-10-20T17:45:00Z
+TXN-0000004,C-00000001,2024-09-12,3200.00,debit,5411,Supermarket,Star Market,Mumbai,card,0,2024-09-12T19:20:00Z
+TXN-0000005,C-00000020,2024-08-15,25000.00,debit,5944,Jewellery,Diamond Palace,Bangalore,card,0,2024-08-15T14:30:00Z
+TXN-0000006,C-00000020,2024-08-10,5500.00,debit,7011,Hotel,The Oberoi,Bangalore,card,0,2024-08-10T20:00:00Z
+TXN-0000007,C-00000020,2024-08-05,15000.00,debit,5722,Electronics,Best Buy,Bangalore,card,0,2024-08-05T16:45:00Z
+TXN-0000008,C-00000014,2024-07-22,9000.00,debit,5641,Children's Clothing,Baby World,Hyderabad,card,0,2024-07-22T15:30:00Z
+TXN-0000009,C-00000014,2024-10-18,3500.00,debit,5411,Supermarket,Reliance Fresh,Pune,card,0,2024-10-18T18:00:00Z
+TXN-0000010,C-00000014,2024-10-25,7200.00,debit,5812,Restaurant,Fogo De Chao,Pune,card,0,2024-10-25T19:30:00Z
+TXN-0000011,C-00000002,2024-11-10,2500.00,debit,5411,Supermarket,Whole Foods,Delhi,card,0,2024-11-10T17:15:00Z
+TXN-0000012,C-00000002,2024-11-05,6000.00,debit,6051,Crypto Network,Crypto Exchange,Delhi,card,0,2024-11-05T10:30:00Z
+TXN-0000013,C-00000005,2024-11-19,15000.00,debit,5812,Restaurant,The Taj,Mumbai,card,0,2024-11-19T19:45:00Z
+TXN-0000014,C-00000005,2024-11-15,1500.00,debit,6211,ATM/Cash Advance,ATM,Mumbai,atm,0,2024-11-15T11:00:00Z
+TXN-0000015,C-00000005,2024-11-10,4000.00,debit,5722,Electronics,Croma,Pune,card,0,2024-11-10T16:30:00Z
+TXN-0000016,C-00000010,2024-11-19,8500.00,debit,5812,Restaurant,ITC Hotel,Delhi,card,0,2024-11-19T20:00:00Z
+TXN-0000017,C-00000010,2024-11-17,3200.00,debit,5411,Supermarket,D-Mart,Delhi,card,0,2024-11-17T18:45:00Z
+TXN-0000018,C-00000010,2024-11-12,5500.00,debit,5722,Electronics,Best Buy,Delhi,card,0,2024-11-12T15:20:00Z
+TXN-0000019,C-00000007,2024-10-15,2800.00,debit,6211,ATM/Cash Advance,ATM,Chennai,atm,0,2024-10-15T09:30:00Z
+TXN-0000020,C-00000012,2024-08-20,6500.00,debit,5411,Supermarket,Reliance Smart,Kolkata,card,0,2024-08-20T17:00:00Z
+TXN-0000021,C-00000016,2024-10-25,4200.00,debit,5812,Restaurant,Punjabi By Nature,Delhi,card,0,2024-10-25T18:30:00Z
+TXN-0000022,C-00000016,2024-10-20,1800.00,debit,6211,ATM/Cash Advance,ATM,Delhi,atm,0,2024-10-20T10:15:00Z
+TXN-0000023,C-00000018,2024-07-15,3500.00,debit,5411,Supermarket,Lulu Hypermarket,Bangalore,card,0,2024-07-15T17:45:00Z
+TXN-0000024,C-00000006,2024-10-10,8000.00,debit,5812,Restaurant,Hyatt Regency,Hyderabad,card,0,2024-10-10T19:00:00Z
+TXN-0000025,C-00000003,2024-11-15,5500.00,debit,5411,Supermarket,Spinach,Bangalore,card,0,2024-11-15T18:30:00Z
