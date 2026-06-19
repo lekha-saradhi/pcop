@@ -160,23 +160,53 @@ export default function ModelsPage() {
           </div>
 
           {/* Feature importance */}
-          <div className="bg-white rounded-xl border border-slate-200 shadow-sm p-5">
-            <h2 className="text-[14px] font-bold text-slate-800 mb-1">HABITAT Feature Importance</h2>
-            <p className="text-[11px] text-slate-400 mb-4">Mean absolute SHAP contribution across 50 customers</p>
-            <ResponsiveContainer width="100%" height={280}>
-              <BarChart
-                data={[...health.feature_importance].sort((a,b)=>b.importance-a.importance)}
-                layout="vertical" margin={{top:0,right:20,left:130,bottom:0}}>
-                <XAxis type="number" tick={{fontSize:10,fill:'#94a3b8'}} axisLine={false} tickLine={false} tickFormatter={v=>v.toFixed(3)} />
-                <YAxis type="category" dataKey="feature" tick={{fontSize:10,fill:'#64748b'}} axisLine={false} tickLine={false} width={130}
-                  tickFormatter={v=>v.replace(/_/g,' ')} />
-               <Tooltip formatter={(v)=>[Number(v).toFixed(4),'Importance']} contentStyle={{fontSize:11,borderRadius:8,border:'1px solid #e2e8f0'}} />
-                <Bar dataKey="importance" fill="#0f2d5c" radius={[0,3,3,0]} maxBarSize={14} />
-              </BarChart>
-            </ResponsiveContainer>
+        ```tsx
+<div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
+  {/* Calibration curve */}
+  <div className="lg:col-span-2 bg-white rounded-xl border border-slate-200 shadow-sm p-5">
+    <h2 className="text-[14px] font-bold text-slate-800 mb-1">Calibration Curve</h2>
+    <p className="text-[11px] text-slate-400 mb-4">
+      Predicted probability vs actual churn rate per bin · ECE={health.fusion_ece.toFixed(4)}
+    </p>
+
+    <ResponsiveContainer width="100%" height={200}>
+      <LineChart data={health.calibration_points} margin={{top:4,right:4,left:-20,bottom:0}}>
+        <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" />
+        <XAxis dataKey="predicted" tickFormatter={v=>`${(v*100).toFixed(0)}%`} tick={{fontSize:10,fill:'#94a3b8'}} axisLine={false} tickLine={false} />
+        <YAxis tickFormatter={v=>`${(v*100).toFixed(0)}%`} tick={{fontSize:10,fill:'#94a3b8'}} axisLine={false} tickLine={false} />
+        <Tooltip formatter={(v)=>[`${(Number(v)*100).toFixed(1)}%`]} contentStyle={{fontSize:11,borderRadius:8,border:'1px solid #e2e8f0'}} />
+        <Line type="linear" dataKey="predicted" stroke="#cbd5e1" strokeWidth={1.5} strokeDasharray="4 3" dot={false} />
+        <Line type="monotone" dataKey="actual" stroke="#0f2d5c" strokeWidth={2.5} dot={{r:4,fill:'#0f2d5c'}} />
+        <Legend wrapperStyle={{fontSize:11}} />
+      </LineChart>
+    </ResponsiveContainer>
+  </div>
+
+  {/* Ensemble weights */}
+  <div className="bg-white rounded-xl border border-slate-200 shadow-sm p-5">
+    <h2 className="text-[14px] font-bold text-slate-800 mb-1">Ensemble Weights</h2>
+    <p className="text-[11px] text-slate-400 mb-3">Brier-score-derived fusion weights</p>
+
+    <ResponsiveContainer width="100%" height={130}>
+      <PieChart>
+        <Pie data={FUSION_PIE} cx="50%" cy="50%" innerRadius={35} outerRadius={55} paddingAngle={3} dataKey="value" startAngle={90} endAngle={-270}>
+          {FUSION_PIE.map(d => <Cell key={d.name} fill={d.color} />)}
+        </Pie>
+        <Tooltip formatter={(v)=>[`${Number(v).toFixed(0)}%`]} contentStyle={{fontSize:11,borderRadius:8}} />
+      </PieChart>
+    </ResponsiveContainer>
+
+    <div className="space-y-1.5 mt-2">
+      {FUSION_PIE.map(d => (
+        <div key={d.name} className="flex items-center justify-between text-[11px]">
+          <div className="flex items-center gap-1.5">
+            <span className="w-2 h-2 rounded-full shrink-0" style={{backgroundColor:d.color}} />
+            <span className="text-slate-600">{d.name}</span>
           </div>
-        </>
-      )}
+          <span className="font-bold text-slate-800">{d.value.toFixed(0)}%</span>
+        </div>
+      ))}
     </div>
-  );
-}
+  </div>
+</div>
+```
