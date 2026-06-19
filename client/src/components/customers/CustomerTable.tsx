@@ -9,7 +9,7 @@ import { Button } from "@/components/ui/button";
 interface CustomerTableProps {
     customers: Customer[];
     isLoading: boolean;
-    v2ScoreMap?: Record<string, V2Score>;
+    v2ScoreMap?: Record<string, any>;
 }
 
 const URGENCY_STYLE: Record<string, { label: string; cls: string }> = {
