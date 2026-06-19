@@ -538,7 +538,7 @@ export default function CustomerDetailPage({ params }: { params: Promise<{id:str
                   <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" />
                   <XAxis dataKey="t" tick={{fontSize:10,fill:'#94a3b8'}} tickFormatter={v=>`${v}d`} axisLine={false} tickLine={false} />
                   <YAxis tick={{fontSize:10,fill:'#94a3b8'}} tickFormatter={v=>`${v.toFixed(0)}%`} axisLine={false} tickLine={false} domain={[0,100]} />
-                  <Tooltip formatter={(v:number) => [`${v.toFixed(1)}%`, 'Survival']} contentStyle={{fontSize:11,borderRadius:8,border:'1px solid #e2e8f0'}} labelFormatter={v=>`Day ${v}`} />
+                  <Tooltip formatter={(v) => [`${Number(v).toFixed(1)}%`, 'Survival']} contentStyle={{fontSize:11,borderRadius:8,border:'1px solid #e2e8f0'}} labelFormatter={v=>`Day ${v}`} />
                   <Area type="monotone" dataKey="s" stroke="#0f2d5c" strokeWidth={2.5} fill="url(#survGrad)" dot={false} />
                 </AreaChart>
               </ResponsiveContainer>
