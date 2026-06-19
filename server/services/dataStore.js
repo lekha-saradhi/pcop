@@ -15,7 +15,8 @@ function load(filename) {
         console.warn(`[dataStore] WARNING: ${filename} not found at ${fp}`);
         return null;
     }
-    return JSON.parse(fs.readFileSync(fp, 'utf8'));
+    const raw = fs.readFileSync(fp, 'utf8').replace(/^\uFEFF/, '');
+return JSON.parse(raw);
 }
 
 // ── Load all static data ──────────────────────────────────────────────────────
