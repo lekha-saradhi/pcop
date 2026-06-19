@@ -134,7 +134,6 @@ export default function ModelsPage() {
             {/* Calibration curve */}
             <div className="lg:col-span-2 bg-white rounded-xl border border-slate-200 shadow-sm p-5">
               <h2 className="text-[14px] font-bold text-slate-800 mb-1">Calibration Curve</h2>
-              >slate-200 shadow-sm p-5">
               <h2 className="text-[14px] font-bold text-slate-800 mb-1">Ensemble Weights</h2>
               <p className="text-[11px] text-slate-400 mb-3">Brier-score-derived fusion weights</p>
               <ResponsiveContainer width="100%" height={130}>
