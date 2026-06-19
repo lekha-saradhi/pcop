@@ -136,7 +136,7 @@ export default function DashboardPage() {
                       <Cell key={t.tier} fill={TIER_COLORS[t.tier as keyof typeof TIER_COLORS] || '#94a3b8'} />
                     ))}
                   </Pie>
-                  <Tooltip formatter={(v:number,n:string) => [v, n]} contentStyle={{fontSize:11,borderRadius:8}} />
+                  <Tooltip formatter={(v,n) => [v, n]} contentStyle={{fontSize:11,borderRadius:8}} />
                 </PieChart>
               </ResponsiveContainer>
               <div className="flex flex-col gap-1.5 flex-1">
