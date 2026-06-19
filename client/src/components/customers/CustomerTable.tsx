@@ -29,7 +29,7 @@ function UrgencyBadge({ horizon }: { horizon: string | null | undefined }) {
     );
 }
 
-export function CustomerTable({ customers, isLoading, v2ScoreMap = {} }: CustomerTableProps) {
+export function CustomerTable({ customers, isLoading, Map = {} }: CustomerTableProps) {
     const router = useRouter();
 
     const formatSignals = (signals: string[]) => {
