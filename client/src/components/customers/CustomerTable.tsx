@@ -108,10 +108,7 @@ export function CustomerTable({ customers, isLoading, v2ScoreMap = {} }: Custome
                                             className="h-1.5 rounded-full"
                                             style={{
                                                 width: `${c.churn_score * 100}%`,
-                                                backgroundColor: c.risk_tier === 'critical' ? '#EF4444' :
-                                                    c.risk_tier === 'high' ? '#F97316' :
-                                                        c.risk_tier === 'medium' ? '#EAB308' :
-                                                            c.risk_tier === 'watch' ? '#3B82F6' : '#22C55E'
+                                                backgroundColor: '#3B82F6'
                                             }}
                                         ></div>
                                     </div>
