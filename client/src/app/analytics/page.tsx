@@ -77,7 +77,7 @@ export default function AnalyticsPage() {
                         <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" />
                         <XAxis dataKey="pct" tickFormatter={v=>`${(v*100).toFixed(0)}%`} tick={{fontSize:10,fill:'#94a3b8'}} axisLine={false} tickLine={false} />
                         <YAxis tick={{fontSize:10,fill:'#94a3b8'}} axisLine={false} tickLine={false} />
-                        <Tooltip formatter={(v:number)=>[v.toFixed(4),'Uplift']} contentStyle={{fontSize:11,borderRadius:8,border:'1px solid #e2e8f0'}} labelFormatter={v=>`Top ${(Number(v)*100).toFixed(0)}%`} />
+                          formatter={(v)=>[Number(v).toFixed(4),'Uplift']} contentStyle={{fontSize:11,borderRadius:8,border:'1px solid #e2e8f0'}} labelFormatter={v=>`Top ${(Number(v)*100).toFixed(0)}%`} />
                         <Area type="monotone" dataKey="uplift" stroke="#059669" strokeWidth={2.5} fill="url(#qiniGrad)" dot={false} />
                       </AreaChart>
                     </ResponsiveContainer>
@@ -94,7 +94,7 @@ export default function AnalyticsPage() {
                         <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" />
                         <XAxis dataKey="group" tick={{fontSize:11,fill:'#64748b'}} axisLine={false} tickLine={false} />
                         <YAxis tickFormatter={v=>`${v.toFixed(0)}%`} tick={{fontSize:10,fill:'#94a3b8'}} axisLine={false} tickLine={false} />
-                        <Tooltip formatter={(v:number)=>[`${v.toFixed(1)}%`,'Visit Rate']} contentStyle={{fontSize:11,borderRadius:8}} />
+                         formatter={(v)=>[`${Number(v).toFixed(1)}%`,'Visit Rate']} contentStyle={{fontSize:11,borderRadius:8}} />
                         <Bar dataKey="rate" fill="#64748b" radius={[4,4,0,0]} maxBarSize={60} />
                       </BarChart>
                     </ResponsiveContainer>
