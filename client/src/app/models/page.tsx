@@ -127,37 +127,7 @@ export default function ModelsPage() {
                 </div>
               );
             })}
-          </div>
-
-          {/* Charts row */}
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
-            {/* Calibration curve */}
-            <div className="lg:col-span-2 bg-white rounded-xl border border-slate-200 shadow-sm p-5">
-              <h2 className="text-[14px] font-bold text-slate-800 mb-1">Calibration Curve</h2>
-              <h2 className="text-[14px] font-bold text-slate-800 mb-1">Ensemble Weights</h2>
-              <p className="text-[11px] text-slate-400 mb-3">Brier-score-derived fusion weights</p>
-              <ResponsiveContainer width="100%" height={130}>
-                <PieChart>
-                  <Pie data={FUSION_PIE} cx="50%" cy="50%" innerRadius={35} outerRadius={55} paddingAngle={3} dataKey="value" startAngle={90} endAngle={-270}>
-                    {FUSION_PIE.map(d => <Cell key={d.name} fill={d.color} />)}
-                  </Pie>
-                  <Tooltip formatter={(v) => [`${Number(v).toFixed(0)}%`]} contentStyle={{fontSize:11,borderRadius:8}} />
-                </PieChart>
-              </ResponsiveContainer>
-              <div className="space-y-1.5 mt-2">
-                {FUSION_PIE.map(d => (
-                  <div key={d.name} className="flex items-center justify-between text-[11px]">
-                    <div className="flex items-center gap-1.5">
-                      <span className="w-2 h-2 rounded-full shrink-0" style={{backgroundColor:d.color}} />
-                      <span className="text-slate-600">{d.name}</span>
-                    </div>
-                    <span className="font-bold text-slate-800">{d.value.toFixed(0)}%</span>
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-
+          </div> 
           {/* Feature importance */}
 <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
   {/* Calibration curve */}
