@@ -64,7 +64,7 @@ export default function NewCustomerPage() {
 
     const handleSubmit = async () => {
         if (!form.full_name.trim()) { setError('Full name is required'); return; }
-        if (!form.email.trim()) { setError('Email is required'); return; }
+        if (!form.email?.trim()) { setError('Email is required'); return; }
         setError(null);
         setStep('generating');
 
