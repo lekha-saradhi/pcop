@@ -97,7 +97,7 @@ export function CustomerTable({ customers, isLoading, v2ScoreMap = {} }: Custome
                                 <div className="text-sm text-slate-700">{c.segment}</div>
                                 <div className="text-xs text-slate-400">{c.city}</div>
                             </TableCell>
-                            <TableCell className="text-sm text-slate-600">{c.tenure_years} yrs</TableCell>
+                            <TableCell className="text-sm text-slate-600">N/A</TableCell>
                             <TableCell>
                                 <div className="w-full pr-4">
                                     <div className="flex justify-between items-end mb-1">
