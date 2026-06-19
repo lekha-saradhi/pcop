@@ -114,7 +114,7 @@ export default function DashboardPage() {
                 <XAxis dataKey="label" tick={{fontSize:10,fill:'#94a3b8'}} axisLine={false} tickLine={false} />
                 <YAxis tickFormatter={v=>`${(v*100).toFixed(0)}%`} tick={{fontSize:10,fill:'#94a3b8'}} axisLine={false} tickLine={false} />
                 <Tooltip
-                  formatter={(v:number) => [`${(v*100).toFixed(1)}%`, 'Avg Score']}
+                  formatter={(v) => [`${(Number(v)*100).toFixed(1)}%`, 'Avg Score']}
                   contentStyle={{fontSize:11,border:'1px solid #e2e8f0',borderRadius:8,padding:'6px 10px'}}
                 />
                 <Line type="monotone" dataKey="avg_score" stroke="#0f2d5c" strokeWidth={2.5} dot={{r:3,fill:'#0f2d5c'}} />
