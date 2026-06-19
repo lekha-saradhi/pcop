@@ -159,7 +159,6 @@ export default function ModelsPage() {
           </div>
 
           {/* Feature importance */}
-        ```tsx
 <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
   {/* Calibration curve */}
   <div className="lg:col-span-2 bg-white rounded-xl border border-slate-200 shadow-sm p-5">
