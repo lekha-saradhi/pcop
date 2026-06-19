@@ -336,7 +336,7 @@ export default function CustomerDetailPage({ params }: { params: Promise<{id:str
                   <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" />
                   <XAxis dataKey="date" tick={{fontSize:9,fill:'#94a3b8'}} axisLine={false} tickLine={false} interval={4} />
                   <YAxis tick={{fontSize:9,fill:'#94a3b8'}} axisLine={false} tickLine={false} tickFormatter={v=>`₹${(v/1000).toFixed(0)}K`} />
-                  <Tooltip formatter={(v:number)=>[`₹${v.toLocaleString('en-IN')}`,'Amount']} contentStyle={{fontSize:11,borderRadius:8,border:'1px solid #e2e8f0'}} />
+                  <Tooltip formatter={(v)=>[`₹${Number(v).toLocaleString('en-IN')}`,'Amount']}  contentStyle={{fontSize:11,borderRadius:8,border:'1px solid #e2e8f0'}} />
                   <Bar dataKey="amount" fill="#0f2d5c" radius={[3,3,0,0]} maxBarSize={16} />
                 </BarChart>
               </ResponsiveContainer>
