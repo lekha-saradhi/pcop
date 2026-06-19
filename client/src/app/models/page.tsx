@@ -140,7 +140,7 @@ export default function ModelsPage() {
                   <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" />
                   <XAxis dataKey="predicted" tickFormatter={v=>`${(v*100).toFixed(0)}%`} tick={{fontSize:10,fill:'#94a3b8'}} axisLine={false} tickLine={false} />
                   <YAxis tickFormatter={v=>`${(v*100).toFixed(0)}%`} tick={{fontSize:10,fill:'#94a3b8'}} axisLine={false} tickLine={false} />
-                  <Tooltip formatter={(v:number) => [`${(v*100).toFixed(1)}%`]} contentStyle={{fontSize:11,borderRadius:8,border:'1px solid #e2e8f0'}} />
+                  <Tooltip formatter={(v) => [`${(v*100).toFixed(1)}%`]} contentStyle={{fontSize:11,borderRadius:8,border:'1px solid #e2e8f0'}} />
                   <Line type="linear" dataKey="predicted" stroke="#cbd5e1" strokeWidth={1.5} strokeDasharray="4 3" dot={false} name="Perfect" />
                   <Line type="monotone" dataKey="actual" stroke="#0f2d5c" strokeWidth={2.5} dot={{r:4,fill:'#0f2d5c'}} name="FusionXV2" />
                   <Legend wrapperStyle={{fontSize:11}} />
@@ -157,7 +157,7 @@ export default function ModelsPage() {
                   <Pie data={FUSION_PIE} cx="50%" cy="50%" innerRadius={35} outerRadius={55} paddingAngle={3} dataKey="value" startAngle={90} endAngle={-270}>
                     {FUSION_PIE.map(d => <Cell key={d.name} fill={d.color} />)}
                   </Pie>
-                  <Tooltip formatter={(v:number) => [`${v.toFixed(0)}%`]} contentStyle={{fontSize:11,borderRadius:8}} />
+                  <Tooltip formatter={(v) => [`${v.toFixed(0)}%`]} contentStyle={{fontSize:11,borderRadius:8}} />
                 </PieChart>
               </ResponsiveContainer>
               <div className="space-y-1.5 mt-2">
@@ -185,7 +185,7 @@ export default function ModelsPage() {
                 <XAxis type="number" tick={{fontSize:10,fill:'#94a3b8'}} axisLine={false} tickLine={false} tickFormatter={v=>v.toFixed(3)} />
                 <YAxis type="category" dataKey="feature" tick={{fontSize:10,fill:'#64748b'}} axisLine={false} tickLine={false} width={130}
                   tickFormatter={v=>v.replace(/_/g,' ')} />
-                <Tooltip formatter={(v:number)=>[v.toFixed(4),'Importance']} contentStyle={{fontSize:11,borderRadius:8,border:'1px solid #e2e8f0'}} />
+                <Tooltip formatter={(v)=>[v.toFixed(4),'Importance']} contentStyle={{fontSize:11,borderRadius:8,border:'1px solid #e2e8f0'}} />
                 <Bar dataKey="importance" fill="#0f2d5c" radius={[0,3,3,0]} maxBarSize={14} />
               </BarChart>
             </ResponsiveContainer>
