@@ -1,7 +1,7 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import { Customer, V2Score } from "@/types";
+import { Customer } from "@/types";
 import { RiskBadge } from "@/components/customers/RiskBadge";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Button } from "@/components/ui/button";
